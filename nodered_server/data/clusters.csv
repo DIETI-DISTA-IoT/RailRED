@@ -1,0 +1,1852 @@
+﻿Cluster_ID;Codice;Nome;Componente;Descrizione;N_Events;Mean_Duration;N_Tuples;Occurrences
+314;103036;_IDoorUnblock_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;2;0.04;153;153
+314;103038;_IDoorDCSFlt_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;2;0.04;153;153
+14;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;2;1.85;61;61
+14;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;1.85;61;61
+48;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;2;1.91;52;52
+48;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;1.91;52;52
+17;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;2;2.80;50;50
+17;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;2;2.80;50;50
+418;108028;_IDoorUnblock_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;2;0.10;47;47
+418;108030;_IDoorDCSFlt_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;2;0.10;47;47
+877;107028;_IDoorUnblock_;T7_Porta_gangway_1;Guasto microswitch porta Gangway 1;2;0.00;47;47
+877;107030;_IDoorDCSFlt_;T7_Porta_gangway_1;Guasto microswitch porta Gangway 1;2;0.00;47;47
+9;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;2;1.91;46;46
+9;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;2;1.91;46;46
+28;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;0.47;39;39
+28;ILCK_PROP_22M8;ILCK_PROP_22M8;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;2;0.47;39;39
+858;104028;_IDoorUnblock_;T4_Porta_gangway_1;Guasto microswitch porta Gangway 1;2;0.00;39;39
+858;104030;_IDoorDCSFlt_;T4_Porta_gangway_1;Guasto microswitch porta Gangway 1;2;0.00;39;39
+870;107036;_IDoorUnblock_;T7_Porta_gangway_2;Guasto microswitch porta Gangway 2;2;0.06;38;38
+870;107038;_IDoorDCSFlt_;T7_Porta_gangway_2;Guasto microswitch porta Gangway 2;2;0.06;38;38
+862;106036;_IDoorUnblock_;M6_Porta_gangway_2;Guasto microswitch porta Gangway 2;2;0.00;36;36
+862;106038;_IDoorDCSFlt_;M6_Porta_gangway_2;Guasto microswitch porta Gangway 2;2;0.00;36;36
+856;106028;_IDoorUnblock_;M6_Porta_gangway_1;Guasto microswitch porta Gangway 1;4;3.52;34;34
+856;106030;_IDoorDCSFlt_;M6_Porta_gangway_1;Guasto microswitch porta Gangway 1;4;3.52;34;34
+856;107036;_IDoorUnblock_;T7_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;3.52;34;34
+856;107038;_IDoorDCSFlt_;T7_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;3.52;34;34
+869;105028;_IDoorUnblock_;T5_Porta_gangway_1;Guasto microswitch porta Gangway 1;2;0.00;34;34
+869;105030;_IDoorDCSFlt_;T5_Porta_gangway_1;Guasto microswitch porta Gangway 1;2;0.00;34;34
+509;106028;_IDoorUnblock_;M6_Porta_gangway_1;Guasto microswitch porta Gangway 1;2;0.12;33;33
+509;106030;_IDoorDCSFlt_;M6_Porta_gangway_1;Guasto microswitch porta Gangway 1;2;0.12;33;33
+873;23062;DIO_DI_FL1;CONV_TRAZ_M3;H2O: FL1 - flusso circ. trattamento basso;2;0.43;32;32
+873;23206;_H2OWarn_;TCU_M3;Guasto centralina idraulica TACU M3;2;0.43;32;32
+35;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;0.39;31;31
+35;ILCK_PROP_22M1;ILCK_PROP_22M1;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;2;0.39;31;31
+888;151024;_Rear_;VEHICLE;Direzione indietro in M1;2;0.12;27;27
+888;158023;_Front_;VEHICLE;Direzione avanti in M8;2;0.12;27;27
+401;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;4;3.16;26;26
+401;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;4;3.16;26;26
+401;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;4;3.16;26;26
+401;ILCK_PROP_12M1;ILCK_PROP_12M1;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;4;3.16;26;26
+884;105028;_IDoorUnblock_;T5_Porta_gangway_1;Guasto microswitch porta Gangway 1;4;3.29;25;25
+884;105030;_IDoorDCSFlt_;T5_Porta_gangway_1;Guasto microswitch porta Gangway 1;4;3.29;25;25
+884;106036;_IDoorUnblock_;M6_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;3.29;25;25
+884;106038;_IDoorDCSFlt_;M6_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;3.29;25;25
+435;107028;_IDoorUnblock_;T7_Porta_gangway_1;Guasto microswitch porta Gangway 1;4;3.62;24;24
+435;107030;_IDoorDCSFlt_;T7_Porta_gangway_1;Guasto microswitch porta Gangway 1;4;3.62;24;24
+435;108028;_IDoorUnblock_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;4;3.62;24;24
+435;108030;_IDoorDCSFlt_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;4;3.62;24;24
+857;105036;_IDoorUnblock_;T5_Porta_gangway_2;Guasto microswitch porta Gangway 2;2;0.12;23;23
+857;105038;_IDoorDCSFlt_;T5_Porta_gangway_2;Guasto microswitch porta Gangway 2;2;0.12;23;23
+868;104036;_IDoorUnblock_;T4_Porta_gangway_2;Guasto microswitch porta Gangway 2;2;0.00;23;23
+868;104038;_IDoorDCSFlt_;T4_Porta_gangway_2;Guasto microswitch porta Gangway 2;2;0.00;23;23
+12;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;2;3.07;22;22
+12;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;2;3.07;22;22
+36;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;0.40;22;22
+36;ILCK_PROP_17M1;ILCK_PROP_17M1;MDS;Cod. 17 Filo treno Taglio Trazione non alimentato;2;0.40;22;22
+73;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;4;3.37;21;21
+73;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;4;3.37;21;21
+73;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;4;3.37;21;21
+73;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;4;3.37;21;21
+44;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;0.24;20;20
+44;ILCK_PROP_17M8;ILCK_PROP_17M8;MDS;Cod. 17 Filo treno Taglio Trazione non alimentato;2;0.24;20;20
+382;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;2;0.08;20;20
+382;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;2;0.08;20;20
+854;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;4;2.91;20;20
+854;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;4;2.91;20;20
+854;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;4;2.91;20;20
+854;ILCK_PROP_12M8;ILCK_PROP_12M8;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;4;2.91;20;20
+23;51004;ScmtInserito;SCMT_M1;Piastra ERTMS inserita in M1;2;2.21;19;19
+23;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;2;2.21;19;19
+860;151023;_Front_;VEHICLE;Direzione avanti in M1;2;0.12;19;19
+860;158024;_Rear_;VEHICLE;Direzione indietro in M8;2;0.12;19;19
+468;104036;_IDoorUnblock_;T4_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;3.41;17;17
+468;104038;_IDoorDCSFlt_;T4_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;3.41;17;17
+468;105036;_IDoorUnblock_;T5_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;3.41;17;17
+468;105038;_IDoorDCSFlt_;T5_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;3.41;17;17
+866;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;3;4.75;17;17
+866;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;3;4.75;17;17
+866;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;4.75;17;17
+72;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;3;1.49;16;16
+72;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;3;1.49;16;16
+72;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;3;1.49;16;16
+158;48353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M8;4;1.53;16;16
+158;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;4;1.53;16;16
+158;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;4;1.53;16;16
+158;ILCK_PROP_18M8;ILCK_PROP_18M8;MDS;Cod. 18 Linea Emergenza Attiva;4;1.53;16;16
+521;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;4;2.70;16;16
+521;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;4;2.70;16;16
+521;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;4;2.70;16;16
+521;ILCK_PROP_11M8;ILCK_PROP_11M8;MDS;Cod. 11 Rilascio Porte Destre Attivo;4;2.70;16;16
+863;101028;_IDoorUnblock_;M1_Porta_gangway_1;Guasto microswitch porta Gangway;2;0.00;16;16
+863;101030;_IDoorDCSFlt_;M1_Porta_gangway_1;Guasto microswitch porta Gangway;2;0.00;16;16
+38;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;2.21;15;15
+38;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;3;2.21;15;15
+38;ILCK_PROP_22M1;ILCK_PROP_22M1;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;3;2.21;15;15
+56;58004;ScmtInserito;SCMT_M8;Piastra ERTMS inserita in M8;2;2.54;13;13
+56;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;2;2.54;13;13
+128;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;5;4.60;13;13
+128;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;5;4.60;13;13
+128;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;5;4.60;13;13
+128;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;5;4.60;13;13
+128;ILCK_PROP_22M1;ILCK_PROP_22M1;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;5;4.60;13;13
+113;41353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M1;4;1.60;12;12
+113;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;4;1.60;12;12
+113;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;4;1.60;12;12
+113;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;4;1.60;12;12
+207;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;2;3.47;12;12
+207;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;2;3.47;12;12
+665;ILCK_Panto_T2_03;ILCK_Panto_T2_03;T2_PANTO;Cod 03. Treno in spegnimento;2;0.24;12;12
+665;ILCK_Panto_T7_03;ILCK_Panto_T7_03;T7_PANTO;Cod 03. Treno in spegnimento;2;0.24;12;12
+875;102036;_IDoorUnblock_;T2_Porta_gangway_2;Guasto microswitch porta Gangway 2;2;0.00;12;12
+875;102038;_IDoorDCSFlt_;T2_Porta_gangway_2;Guasto microswitch porta Gangway 2;2;0.00;12;12
+145;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;2;3.27;11;11
+145;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;3.27;11;11
+883;150017;_CmdCloseIR_;VEHICLE;Comando chiusura IR/IP da banco;4;1.82;11;11
+883;152019;_1Q21_;T2_1Q2_IR;IR chiuso in cassa T2;4;1.82;11;11
+883;EVT_IP_T2_47;EVT_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;4;1.82;11;11
+883;EVT_IP_T7_47;EVT_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;4;1.82;11;11
+905;103019;_IDoorUnblock_;M3_Porta_comparto_2;Guasto microswitch porta interna 2;2;0.00;11;11
+905;103021;_IDoorDCSFlt_;M3_Porta_comparto_2;Guasto microswitch porta interna 2;2;0.00;11;11
+25;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);2;3.14;10;10
+25;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;2;3.14;10;10
+386;137017;_StToiletSys_;TOIL_T7;Toilette fuori servizio veicolo T7;2;1.10;10;10
+386;137025;_SecondValveFlt_;TOIL_T7;Guasto valvola secondaria WC toilette T7;2;1.10;10;10
+527;102028;_IDoorUnblock_;T2_Porta_gangway_1;Guasto microswitch porta Gangway 1;2;0.48;10;10
+527;102030;_IDoorDCSFlt_;T2_Porta_gangway_1;Guasto microswitch porta Gangway 1;2;0.48;10;10
+584;103028;_IDoorUnblock_;M3_Porta_gangway_1;Guasto microswitch porta Gangway 1;2;0.28;10;10
+584;103030;_IDoorDCSFlt_;M3_Porta_gangway_1;Guasto microswitch porta Gangway 1;2;0.28;10;10
+896;102036;_IDoorUnblock_;T2_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;2.56;10;10
+896;102038;_IDoorDCSFlt_;T2_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;2.56;10;10
+896;103028;_IDoorUnblock_;M3_Porta_gangway_1;Guasto microswitch porta Gangway 1;4;2.56;10;10
+896;103030;_IDoorDCSFlt_;M3_Porta_gangway_1;Guasto microswitch porta Gangway 1;4;2.56;10;10
+76;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;5;4.47;9;9
+76;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;5;4.47;9;9
+76;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;5;4.47;9;9
+76;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;5;4.47;9;9
+76;ILCK_PROP_22M8;ILCK_PROP_22M8;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;5;4.47;9;9
+341;151014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T2;4;0.36;9;9
+341;ILCK_IR_T2_01;ILCK_IR_T2_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;4;0.36;9;9
+341;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;4;0.36;9;9
+341;ILCK_IR_T7_01;ILCK_IR_T7_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;4;0.36;9;9
+24;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;4.63;8;8
+24;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;3;4.63;8;8
+24;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;3;4.63;8;8
+39;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;3;4.20;8;8
+39;ILCK_PROP_17M1;ILCK_PROP_17M1;MDS;Cod. 17 Filo treno Taglio Trazione non alimentato;3;4.20;8;8
+39;ILCK_PROP_22M1;ILCK_PROP_22M1;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;3;4.20;8;8
+492;101028;_IDoorUnblock_;M1_Porta_gangway_1;Guasto microswitch porta Gangway;4;3.17;8;8
+492;101030;_IDoorDCSFlt_;M1_Porta_gangway_1;Guasto microswitch porta Gangway;4;3.17;8;8
+492;102028;_IDoorUnblock_;T2_Porta_gangway_1;Guasto microswitch porta Gangway 1;4;3.17;8;8
+492;102030;_IDoorDCSFlt_;T2_Porta_gangway_1;Guasto microswitch porta Gangway 1;4;3.17;8;8
+887;158014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T7;4;0.40;8;8
+887;ILCK_IR_T2_01;ILCK_IR_T2_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;4;0.40;8;8
+887;ILCK_IR_T7_01;ILCK_IR_T7_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;4;0.40;8;8
+887;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;4;0.40;8;8
+33;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;2;2.40;7;7
+33;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;2.40;7;7
+40;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;4;7.51;7;7
+40;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;4;7.51;7;7
+40;ILCK_PROP_17M1;ILCK_PROP_17M1;MDS;Cod. 17 Filo treno Taglio Trazione non alimentato;4;7.51;7;7
+40;ILCK_PROP_22M1;ILCK_PROP_22M1;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;4;7.51;7;7
+75;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;6;5.15;7;7
+75;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;6;5.15;7;7
+75;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;6;5.15;7;7
+75;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;6;5.15;7;7
+75;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;6;5.15;7;7
+75;ILCK_PROP_22M8;ILCK_PROP_22M8;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;6;5.15;7;7
+130;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;6;3.92;7;7
+130;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;6;3.92;7;7
+130;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;6;3.92;7;7
+130;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;6;3.92;7;7
+130;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;6;3.92;7;7
+130;ILCK_PROP_22M1;ILCK_PROP_22M1;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;6;3.92;7;7
+346;151023;_Front_;VEHICLE;Direzione avanti in M1;3;2.97;7;7
+346;158024;_Rear_;VEHICLE;Direzione indietro in M8;3;2.97;7;7
+346;ILCK_PROP_10;ILCK_PROP_10;VEHICLE;Cod. 10 Nessuna velocita' impostata;3;2.97;7;7
+352;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;3;1.40;7;7
+352;ILCK_PROP_11M8;ILCK_PROP_11M8;MDS;Cod. 11 Rilascio Porte Destre Attivo;3;1.40;7;7
+352;ILCK_PROP_12M8;ILCK_PROP_12M8;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;3;1.40;7;7
+881;41042;_Ed1Low_;BCU_M1;Sforzo frenatura dinamica insufficiente in frenatura di servizio;4;1.09;7;7
+881;43043;_Ed2Low_;BCU_M3;Sforzo frenatura dinamica insufficiente in frenatura di servizio;4;1.09;7;7
+881;46043;_Ed2Low_;BCU_M6;Sforzo frenatura dinamica insufficiente in frenatura di servizio;4;1.09;7;7
+881;48042;_Ed1Low_;BCU_M8;Sforzo frenatura dinamica insufficiente in frenatura di servizio;4;1.09;7;7
+897;23476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M3;Apertura forz. contatt. Convert. Princip. DC;3;0.54;7;7
+897;28476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M8;Apertura forz. contatt. Convert. Princip. DC;3;0.54;7;7
+897;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;3;0.54;7;7
+84;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;2.07;6;6
+84;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;3;2.07;6;6
+84;ILCK_PROP_22M8;ILCK_PROP_22M8;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;3;2.07;6;6
+146;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;2;2.63;6;6
+146;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;2.63;6;6
+177;41357;BRKSTS_TL_Inc1;FRENO;Incongruenza BRAKE_STATUS_TL e manettino di frenatura M1;4;3.64;6;6
+177;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;4;3.64;6;6
+177;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;4;3.64;6;6
+177;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;4;3.64;6;6
+385;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;4;5.17;6;6
+385;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;4;5.17;6;6
+385;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;4;5.17;6;6
+385;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;4;5.17;6;6
+453;11201;CCU_FltWtbR2;VEHICLE;Mancata ricezione R2 in CCU M1;11;8.23;6;6
+453;11202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M1;11;8.23;6;6
+453;150007;_Standby_;VEHICLE;Stato STANDBY attivo;11;8.23;6;6
+453;150009;_Parking_;VEHICLE;Stato PARKING attivo;11;8.23;6;6
+453;158014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T7;11;8.23;6;6
+453;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;11;8.23;6;6
+453;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;11;8.23;6;6
+453;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;11;8.23;6;6
+453;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;11;8.23;6;6
+453;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;11;8.23;6;6
+453;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;11;8.23;6;6
+861;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;2;0.73;6;6
+861;ILCK_PROP_11M8;ILCK_PROP_11M8;MDS;Cod. 11 Rilascio Porte Destre Attivo;2;0.73;6;6
+865;103036;_IDoorUnblock_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;3.20;6;6
+865;103038;_IDoorDCSFlt_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;3.20;6;6
+865;104028;_IDoorUnblock_;T4_Porta_gangway_1;Guasto microswitch porta Gangway 1;4;3.20;6;6
+865;104030;_IDoorDCSFlt_;T4_Porta_gangway_1;Guasto microswitch porta Gangway 1;4;3.20;6;6
+47;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;4;13.00;5;5
+47;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;4;13.00;5;5
+47;ILCK_PROP_17M8;ILCK_PROP_17M8;MDS;Cod. 17 Filo treno Taglio Trazione non alimentato;4;13.00;5;5
+47;ILCK_PROP_22M8;ILCK_PROP_22M8;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;4;13.00;5;5
+63;48357;BRKSTS_TL_Inc1;FRENO;Incongruenza BRAKE_STATUS_TL e manettino di frenatura M8;2;0.12;5;5
+63;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;2;0.12;5;5
+66;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);3;4.32;5;5
+66;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;4.32;5;5
+66;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;3;4.32;5;5
+70;ILCK_PROP_02;ILCK_PROP_02;VEHICLE;Cod. 02 Taglio trazione comandato da RCEC;2;0.84;5;5
+70;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;2;0.84;5;5
+136;41244;_ManDbvIsol_;BCU_M1;Rubinetto RIM 9S30 chiuso (valvola freni macchinista isolata man.);2;0.49;5;5
+136;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;2;0.49;5;5
+138;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;2;2.60;5;5
+138;ILCK_PROP_22M8;ILCK_PROP_22M8;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;2;2.60;5;5
+248;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;2;0.08;5;5
+248;ILCK_PROP_22M1;ILCK_PROP_22M1;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;2;0.08;5;5
+268;11064;_TCUNotOk_;TCU_M1;Perdita di comunicazione MVB con TCU M1;2;0.08;5;5
+268;13064;_TCUNotOk_;TCU_M3;Perdita di comunicazione MVB con TCU M3;2;0.08;5;5
+317;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;3;2.84;5;5
+317;103036;_IDoorUnblock_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;2.84;5;5
+317;103038;_IDoorDCSFlt_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;2.84;5;5
+376;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;4;3.43;5;5
+376;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;4;3.43;5;5
+376;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;4;3.43;5;5
+376;ILCK_PROP_11M1;ILCK_PROP_11M1;MDS;Cod. 11 Rilascio Porte Destre Attivo;4;3.43;5;5
+855;103036;_IDoorUnblock_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;2.48;5;5
+855;103038;_IDoorDCSFlt_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;2.48;5;5
+855;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;2.48;5;5
+871;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;5;5.28;5;5
+871;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;5;5.28;5;5
+871;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;5;5.28;5;5
+871;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;5;5.28;5;5
+871;ILCK_PROP_12M1;ILCK_PROP_12M1;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;5;5.28;5;5
+874;151015;_ACPantoSts_;VEHICLE;Pantografo AC alto in T2;2;0.00;5;5
+874;ILCK_IP_T2_50;ILCK_IP_T2_50;T2_1Q4_IP;Cod 50. Assenza tensione 25KV;2;0.00;5;5
+29;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;3;2.75;4;4
+29;ILCK_PROP_17M8;ILCK_PROP_17M8;MDS;Cod. 17 Filo treno Taglio Trazione non alimentato;3;2.75;4;4
+29;ILCK_PROP_22M8;ILCK_PROP_22M8;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;3;2.75;4;4
+50;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;4;3.10;4;4
+50;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;4;3.10;4;4
+50;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;4;3.10;4;4
+50;ILCK_PROP_22M8;ILCK_PROP_22M8;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;4;3.10;4;4
+74;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;5;5.75;4;4
+74;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;5;5.75;4;4
+74;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;5;5.75;4;4
+74;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;5;5.75;4;4
+74;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;5;5.75;4;4
+81;41244;_ManDbvIsol_;BCU_M1;Rubinetto RIM 9S30 chiuso (valvola freni macchinista isolata man.);2;0.65;4;4
+81;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;2;0.65;4;4
+100;41357;BRKSTS_TL_Inc1;FRENO;Incongruenza BRAKE_STATUS_TL e manettino di frenatura M1;2;0.30;4;4
+100;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;2;0.30;4;4
+104;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;3;5.85;4;4
+104;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;3;5.85;4;4
+104;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;3;5.85;4;4
+112;41353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M1;3;0.45;4;4
+112;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;0.45;4;4
+112;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;3;0.45;4;4
+118;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;2;1.90;4;4
+118;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;2;1.90;4;4
+143;48244;_ManDbvIsol_;BCU_M8;Rubinetto RIM 9S30 chiuso (valvola freni macchinista isolata man.);2;0.47;4;4
+143;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;2;0.47;4;4
+160;48353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M8;3;0.40;4;4
+160;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;0.40;4;4
+160;ILCK_PROP_18M8;ILCK_PROP_18M8;MDS;Cod. 18 Linea Emergenza Attiva;3;0.40;4;4
+196;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;2;1.60;4;4
+196;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);2;1.60;4;4
+276;13051;_HVACpxNotOK_;HVAC_M3;Perdita di comunicazione con HVAC M3;3;5.30;4;4
+276;15051;_HVACpxNotOK_;HVAC_T5;Perdita di comunicazione con HVAC T5;3;5.30;4;4
+276;16051;_HVACpxNotOK_;HVAC_M6;Perdita di comunicazione con HVAC M6;3;5.30;4;4
+283;12051;_HVACpxNotOK_;HVAC_T2;Perdita di comunicazione con HVAC T2;2;2.95;4;4
+283;17051;_HVACpxNotOK_;HVAC_T7;Perdita di comunicazione con HVAC T7;2;2.95;4;4
+288;13051;_HVACpxNotOK_;HVAC_M3;Perdita di comunicazione con HVAC M3;3;2.65;4;4
+288;14051;_HVACpxNotOK_;HVAC_T4;Perdita di comunicazione con HVAC T4;3;2.65;4;4
+288;17051;_HVACpxNotOK_;HVAC_T7;Perdita di comunicazione con HVAC T7;3;2.65;4;4
+309;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;5;8.40;4;4
+309;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;5;8.40;4;4
+309;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;5;8.40;4;4
+309;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;5;8.40;4;4
+309;ILCK_PROP_12M8;ILCK_PROP_12M8;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;5;8.40;4;4
+310;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;5;5.15;4;4
+310;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;5;5.15;4;4
+310;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;5;5.15;4;4
+310;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;5;5.15;4;4
+310;ILCK_PROP_12M8;ILCK_PROP_12M8;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;5;5.15;4;4
+315;103036;_IDoorUnblock_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;1.20;4;4
+315;103038;_IDoorDCSFlt_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;1.20;4;4
+315;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;3;1.20;4;4
+321;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;3;2.45;4;4
+321;103036;_IDoorUnblock_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;2.45;4;4
+321;103038;_IDoorDCSFlt_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;2.45;4;4
+324;106028;_IDoorUnblock_;M6_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;5.20;4;4
+324;106030;_IDoorDCSFlt_;M6_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;5.20;4;4
+324;107036;_IDoorUnblock_;T7_Porta_gangway_2;Guasto microswitch porta Gangway 2;5;5.20;4;4
+324;107038;_IDoorDCSFlt_;T7_Porta_gangway_2;Guasto microswitch porta Gangway 2;5;5.20;4;4
+324;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;5;5.20;4;4
+351;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;2;0.60;4;4
+351;ILCK_PROP_11M1;ILCK_PROP_11M1;MDS;Cod. 11 Rilascio Porte Destre Attivo;2;0.60;4;4
+426;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;3;0.55;4;4
+426;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;3;0.55;4;4
+426;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;3;0.55;4;4
+430;21456;MIC_INV_ALRM_RHEO_BLOC_NO_APIR;CONV_TRAZ_M1;Allarme blocco restato;5;2.30;4;4
+430;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;5;2.30;4;4
+430;26456;MIC_INV_ALRM_RHEO_BLOC_NO_APIR;CONV_TRAZ_M6;Allarme blocco restato;5;2.30;4;4
+430;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;5;2.30;4;4
+430;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;5;2.30;4;4
+457;18201;CCU_FltWtbR2;VEHICLE;Mancata ricezione R2 in CCU M8;11;8.55;4;4
+457;18202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M8;11;8.55;4;4
+457;150007;_Standby_;VEHICLE;Stato STANDBY attivo;11;8.55;4;4
+457;150009;_Parking_;VEHICLE;Stato PARKING attivo;11;8.55;4;4
+457;151014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T2;11;8.55;4;4
+457;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;11;8.55;4;4
+457;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;11;8.55;4;4
+457;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;11;8.55;4;4
+457;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;11;8.55;4;4
+457;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;11;8.55;4;4
+457;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;11;8.55;4;4
+471;150017;_CmdCloseIR_;VEHICLE;Comando chiusura IR/IP da banco;4;1.60;4;4
+471;157019;_1Q21_;T7_1Q2_IR;IR chiuso in cassa T7;4;1.60;4;4
+471;EVT_IP_T2_47;EVT_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;4;1.60;4;4
+471;EVT_IP_T7_47;EVT_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;4;1.60;4;4
+886;18201;CCU_FltWtbR2;VEHICLE;Mancata ricezione R2 in CCU M8;13;8.45;4;4
+886;18202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M8;13;8.45;4;4
+886;51001;ScmtOn_CabOff_1;SCMT_M1;Piastra abilitata in M1 con banco M1 disabilitato;13;8.45;4;4
+886;150007;_Standby_;VEHICLE;Stato STANDBY attivo;13;8.45;4;4
+886;150009;_Parking_;VEHICLE;Stato PARKING attivo;13;8.45;4;4
+886;151014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T2;13;8.45;4;4
+886;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;13;8.45;4;4
+886;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;13;8.45;4;4
+886;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;13;8.45;4;4
+886;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;13;8.45;4;4
+886;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;13;8.45;4;4
+886;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;13;8.45;4;4
+886;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;13;8.45;4;4
+898;11058;_LCUNotOk_;LCU1_M1;Mancata Comunicazione con LCU1;16;1.66;4;4
+898;11064;_TCUNotOk_;TCU_M1;Perdita di comunicazione MVB con TCU M1;16;1.66;4;4
+898;12058;_LCUNotOk_;LCU2_T2;Mancata Comunicazione con LCU2;16;1.66;4;4
+898;12060;_LCU5NotOk_;LCU5_T2;Mancata Comunicazione con LCU5;16;1.66;4;4
+898;13058;_LCUNotOk_;LCU3_M3;Mancata Comunicazione con LCU3;16;1.66;4;4
+898;13064;_TCUNotOk_;TCU_M3;Perdita di comunicazione MVB con TCU M3;16;1.66;4;4
+898;14058;_LCUNotOk_;LCU4_T4;Mancata Comunicazione con LCU4;16;1.66;4;4
+898;15058;_LCUNotOk_;LCU4_T5;Mancata Comunicazione con LCU4;16;1.66;4;4
+898;16058;_LCUNotOk_;LCU3_M6;Mancata Comunicazione con LCU3;16;1.66;4;4
+898;16064;_TCUNotOk_;TCU_M6;Perdita di comunicazione MVB con TCU M6;16;1.66;4;4
+898;17058;_LCUNotOk_;LCU2_T7;Mancata Comunicazione con LCU2;16;1.66;4;4
+898;17060;_LCU5NotOk_;LCU5_T7;Mancata Comunicazione con LCU5;16;1.66;4;4
+898;18058;_LCUNotOk_;LCU1_M8;Mancata Comunicazione con LCU1;16;1.66;4;4
+898;18064;_TCUNotOk_;TCU_M8;Perdita di comunicazione MVB con TCU M8;16;1.66;4;4
+898;ILCK_Panto_T2_15;ILCK_Panto_T2_15;T2_PANTO;Cod 15. Assenza di comunicazione tra LCU5 e CCU;16;1.66;4;4
+898;ILCK_Panto_T7_15;ILCK_Panto_T7_15;T7_PANTO;Cod 15. Assenza di comunicazione tra LCU5 e CCU;16;1.66;4;4
+7;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;2;3.81;3;3
+7;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);2;3.81;3;3
+21;41357;BRKSTS_TL_Inc1;FRENO;Incongruenza BRAKE_STATUS_TL e manettino di frenatura M1;3;2.27;3;3
+21;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;2.27;3;3
+21;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;3;2.27;3;3
+43;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;3.00;3;3
+43;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;3;3.00;3;3
+43;ILCK_PROP_22M1;ILCK_PROP_22M1;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;3;3.00;3;3
+51;48357;BRKSTS_TL_Inc1;FRENO;Incongruenza BRAKE_STATUS_TL e manettino di frenatura M8;5;3.94;3;3
+51;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;5;3.94;3;3
+51;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;5;3.94;3;3
+51;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;5;3.94;3;3
+51;ILCK_PROP_22M8;ILCK_PROP_22M8;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;5;3.94;3;3
+54;ILCK_PROP_10;ILCK_PROP_10;VEHICLE;Cod. 10 Nessuna velocita' impostata;2;2.80;3;3
+54;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;2.80;3;3
+90;96183;_PneuFlt_;M6_Gradino_Porta1;Avaria unita' pneum. gradino porta 1 M6;2;2.67;3;3
+90;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;2.67;3;3
+114;41353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M1;5;4.46;3;3
+114;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);5;4.46;3;3
+114;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;5;4.46;3;3
+114;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;5;4.46;3;3
+114;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;5;4.46;3;3
+119;48357;BRKSTS_TL_Inc1;FRENO;Incongruenza BRAKE_STATUS_TL e manettino di frenatura M8;3;2.47;3;3
+119;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;2.47;3;3
+119;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;3;2.47;3;3
+161;48353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M8;2;0.13;3;3
+161;ILCK_PROP_18M8;ILCK_PROP_18M8;MDS;Cod. 18 Linea Emergenza Attiva;2;0.13;3;3
+203;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;2;2.93;3;3
+203;86079;_SnsrHighprssrB46_;HVAC_M6;Guasto sensore di pressione B46;2;2.93;3;3
+210;48357;BRKSTS_TL_Inc1;FRENO;Incongruenza BRAKE_STATUS_TL e manettino di frenatura M8;4;5.07;3;3
+210;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;4;5.07;3;3
+210;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;4;5.07;3;3
+210;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;4;5.07;3;3
+219;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;5;4.34;3;3
+219;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;5;4.34;3;3
+219;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;5;4.34;3;3
+219;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;5;4.34;3;3
+219;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;5;4.34;3;3
+258;44275;_Cmpr1OilLvlFlt_;FRENO;Livello olio basso nel compressore 1;3;0.27;3;3
+258;45275;_Cmpr1OilLvlFlt_;FRENO;Livello olio basso nel compressore 1;3;0.27;3;3
+258;45281;_Cmpr2OilLvlFlt_;FRENO;Livello olio basso nel compressore 2;3;0.27;3;3
+259;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;4;2.67;3;3
+259;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;4;2.67;3;3
+259;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;4;2.67;3;3
+259;ILCK_PROP_22M1;ILCK_PROP_22M1;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;4;2.67;3;3
+318;103036;_IDoorUnblock_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;2.73;3;3
+318;103038;_IDoorDCSFlt_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;2.73;3;3
+318;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;3;2.73;3;3
+369;106036;_IDoorUnblock_;M6_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;4.27;3;3
+369;106038;_IDoorDCSFlt_;M6_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;4.27;3;3
+369;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;4.27;3;3
+375;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;6;5.73;3;3
+375;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;6;5.73;3;3
+375;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;6;5.73;3;3
+375;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;6;5.73;3;3
+375;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;6;5.73;3;3
+375;ILCK_PROP_11M1;ILCK_PROP_11M1;MDS;Cod. 11 Rilascio Porte Destre Attivo;6;5.73;3;3
+439;41042;_Ed1Low_;BCU_M1;Sforzo frenatura dinamica insufficiente in frenatura di servizio;5;2.80;3;3
+439;43043;_Ed2Low_;BCU_M3;Sforzo frenatura dinamica insufficiente in frenatura di servizio;5;2.80;3;3
+439;46043;_Ed2Low_;BCU_M6;Sforzo frenatura dinamica insufficiente in frenatura di servizio;5;2.80;3;3
+439;48042;_Ed1Low_;BCU_M8;Sforzo frenatura dinamica insufficiente in frenatura di servizio;5;2.80;3;3
+439;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;5;2.80;3;3
+496;48353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M8;6;10.67;3;3
+496;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;6;10.67;3;3
+496;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;6;10.67;3;3
+496;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;6;10.67;3;3
+496;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;6;10.67;3;3
+496;ILCK_PROP_18M8;ILCK_PROP_18M8;MDS;Cod. 18 Linea Emergenza Attiva;6;10.67;3;3
+661;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;9;4.80;3;3
+661;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;9;4.80;3;3
+661;41353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M1;9;4.80;3;3
+661;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;9;4.80;3;3
+661;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;9;4.80;3;3
+661;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;9;4.80;3;3
+661;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;9;4.80;3;3
+661;ILCK_PROP_02;ILCK_PROP_02;VEHICLE;Cod. 02 Taglio trazione comandato da RCEC;9;4.80;3;1
+661;ILCK_PROP_20M1;ILCK_PROP_20M1;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);9;4.80;3;1
+831;26376;NO_LINE_VOLTAGE;CONV_TRAZ_M6;Nessuna tensione di linea;26;10.13;3;3
+831;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;26;10.13;3;3
+831;27008;_DCPantoFlt_;T7_Panto3kV;Guasto pantografo 3kV in T7;26;10.13;3;3
+831;28219;_MCQ1SwitchSts_;TCU_M8;Guasto interruttore di isolamento 25 kV (stato);26;10.13;3;3
+831;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;26;10.13;3;3
+831;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;26;10.13;3;3
+831;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;26;10.13;3;3
+831;207001;PCU_Flt;EPCU_T7;Avaria PCU panto 3 kV T7;26;10.13;3;3
+831;207010;PCU_reg;EPCU_T7;Errore regolazione pressione di riferimento;26;10.13;3;3
+831;ILCK_IRIP_T2_56;ILCK_IRIP_T2_56;T2_MCB;Cod 56. Apertura da TCU1  locale (M1);26;10.13;3;3
+831;ILCK_IRIP_T2_59;ILCK_IRIP_T2_59;T2_MCB;Cod 59. Apertura da TCU2 remota (M6);26;10.13;3;3
+831;ILCK_IRIP_T7_57;ILCK_IRIP_T7_57;T7_MCB;Cod 57. Apertura da TCU2  locale (M6);26;10.13;3;3
+831;ILCK_IR_T2_01;ILCK_IR_T2_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;26;10.13;3;3
+831;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;26;10.13;3;3
+831;ILCK_IR_T7_52;ILCK_IR_T7_52;T2_1Q2_IR;Cod 52. Comando apertura DC per guasto Pantografo;26;10.13;3;3
+831;ILCK_PROP_21M1;ILCK_PROP_21M1;MDS;Cod. 21 AT non presente;26;10.13;3;3
+831;ILCK_PantoDC_T7_22;ILCK_PantoDC_T7_22;T7_Panto3kV;Cod 22. Guasto centralina EPCU di controllo Pantografo;26;10.13;3;3
+831;21376;NO_LINE_VOLTAGE;CONV_TRAZ_M1;Nessuna tensione di linea;26;10.13;3;2
+831;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;26;10.13;3;2
+831;23219;_MCQ1SwitchSts_;TCU_M3;Guasto interruttore di isolamento 25 kV (stato);26;10.13;3;2
+831;ILCK_IRIP_T7_60;ILCK_IRIP_T7_60;T7_MCB;"Cod 60. Apertura per linea treno HW Opening TL"" a 1 senza alcuna TCU che alimenta la linea""";26;10.13;3;2
+831;ILCK_IR_T7_01;ILCK_IR_T7_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;26;10.13;3;2
+831;ILCK_IR_T7_42;ILCK_IR_T7_42;T2_1Q2_IR;Cod 42. Pantografo DC non alto;26;10.13;3;2
+831;26219;_MCQ1SwitchSts_;TCU_M6;Guasto interruttore di isolamento 25 kV (stato);26;10.13;3;1
+831;150011;_PantoLowSts_;VEHICLE;Nessun pantografo alto;26;10.13;3;1
+831;ILCK_IRIP_T2_60;ILCK_IRIP_T2_60;T2_MCB;"Cod 60. Apertura per linea treno HW Opening TL"" a 1 senza alcuna TCU che alimenta la linea""";26;10.13;3;1
+889;132023;_Edg3tms_;TOIL_T2;Intervento bordo sensibile toilette T2;2;0.80;3;3
+889;132038;_HKPressSwitchFlt_;TOIL_T2;Guasto pressostato porta toilette T2;2;0.80;3;3
+892;150006;_Running_;VEHICLE;Stato RUNNING attivo;3;4.15;3;3
+892;158015;_ACPantoSts_;VEHICLE;Pantografo AC alto in T7;3;4.15;3;3
+892;ILCK_IP_T7_50;ILCK_IP_T7_50;T7_1Q4_IP;Cod 50. Assenza tensione 25KV;3;4.15;3;3
+908;18201;CCU_FltWtbR2;VEHICLE;Mancata ricezione R2 in CCU M8;12;1.20;3;3
+908;18202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M8;12;1.20;3;3
+908;150007;_Standby_;VEHICLE;Stato STANDBY attivo;12;1.20;3;3
+908;ILCK_IRIP_36;ILCK_IRIP_T2_36;MCB;Cod 36. Banco non abilitato;12;1.20;3;3
+908;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;12;1.20;3;3
+908;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;12;1.20;3;3
+908;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;12;1.20;3;3
+908;ILCK_Panto_04;ILCK_Panto_04;AT;Cod 04. Banco non abilitato;12;1.20;3;3
+908;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;12;1.20;3;3
+908;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;12;1.20;3;3
+908;ILCK_IR_T7_42;ILCK_IR_T7_42;T2_1Q2_IR;Cod 42. Pantografo DC non alto;12;1.20;3;2
+908;41352;6S01_Emg;FRENO;Frenatura di emergenza attivata da leva di trazione in M1;12;1.20;3;1
+911;150011;_PantoLowSts_;VEHICLE;Nessun pantografo alto;6;2.07;3;3
+911;150013;_CmdPantoDw_;VEHICLE;Comando abbassamento panto da banco;6;2.07;3;3
+911;ILCK_Panto_T2_08;ILCK_Panto_T2_08;T2_PANTO;Cod 08. Comando abbassamento da selettore Panto;6;2.07;3;3
+911;ILCK_Panto_T2_16;ILCK_Panto_T2_16;T2_PANTO;Cod 16. Filo treno di abbassamento Panto Attivo;6;2.07;3;3
+911;ILCK_Panto_T7_07;ILCK_Panto_T7_07;T7_PANTO;Cod 07. Comando abbassamento panto richiesto da remoto;6;2.07;3;3
+911;ILCK_Panto_T7_16;ILCK_Panto_T7_16;T7_PANTO;Cod 16. Filo treno di abbassamento Panto Attivo;6;2.07;3;3
+11;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;2;0.90;2;2
+11;92168;_UndrCtrlLLvlFlt_;EDCU_T2_1;Guasto rilascio porta sorvegliata 1 T2;2;0.90;2;2
+18;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;5.90;2;2
+18;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;3;5.90;2;2
+18;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;3;5.90;2;2
+78;48357;BRKSTS_TL_Inc1;FRENO;Incongruenza BRAKE_STATUS_TL e manettino di frenatura M8;7;4.50;2;2
+78;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;7;4.50;2;2
+78;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;7;4.50;2;2
+78;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;7;4.50;2;2
+78;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;7;4.50;2;2
+78;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;7;4.50;2;2
+78;ILCK_PROP_22M8;ILCK_PROP_22M8;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;7;4.50;2;2
+83;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;2;0.80;2;2
+83;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;0.80;2;2
+121;93189;_PneuFlt_;M3_Gradino_Porta4;Avaria unita' pneum. gradino porta 4 M3;2;2.80;2;2
+121;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;2.80;2;2
+122;93189;_PneuFlt_;M3_Gradino_Porta4;Avaria unita' pneum. gradino porta 4 M3;3;4.80;2;2
+122;ILCK_PROP_10;ILCK_PROP_10;VEHICLE;Cod. 10 Nessuna velocita' impostata;3;4.80;2;2
+122;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;3;4.80;2;2
+135;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;2;2.90;2;2
+135;ILCK_PROP_10;ILCK_PROP_10;VEHICLE;Cod. 10 Nessuna velocita' impostata;2;2.90;2;2
+141;41357;BRKSTS_TL_Inc1;FRENO;Incongruenza BRAKE_STATUS_TL e manettino di frenatura M1;7;2.70;2;2
+141;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;7;2.70;2;2
+141;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;7;2.70;2;2
+141;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;7;2.70;2;2
+141;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;7;2.70;2;2
+141;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;7;2.70;2;2
+141;ILCK_PROP_22M1;ILCK_PROP_22M1;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;7;2.70;2;2
+148;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;3;4.40;2;2
+148;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;4.40;2;2
+148;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;3;4.40;2;2
+168;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);3;4.00;2;2
+168;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;4.00;2;2
+168;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;3;4.00;2;2
+173;95183;_PneuFlt_;T5_Gradino_Porta1;Avaria unita' pneum. gradino porta 1 T5;2;0.60;2;2
+173;96183;_PneuFlt_;M6_Gradino_Porta1;Avaria unita' pneum. gradino porta 1 M6;2;0.60;2;2
+180;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;2;1.10;2;2
+180;ILCK_PROP_20M1;ILCK_PROP_20M1;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);2;1.10;2;2
+191;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);4;4.30;2;2
+191;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;4;4.30;2;2
+191;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;4;4.30;2;2
+191;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;4;4.30;2;2
+192;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);5;7.11;2;2
+192;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;5;7.11;2;2
+192;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;5;7.11;2;2
+192;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;5;7.11;2;2
+192;ILCK_PROP_22M1;ILCK_PROP_22M1;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;5;7.11;2;2
+193;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);2;2.20;2;2
+193;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;2;2.20;2;2
+213;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);2;3.30;2;2
+213;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;2;3.30;2;2
+221;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;3;3.00;2;2
+221;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;3.00;2;2
+221;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;3;3.00;2;2
+234;44275;_Cmpr1OilLvlFlt_;FRENO;Livello olio basso nel compressore 1;2;0.81;2;2
+234;45275;_Cmpr1OilLvlFlt_;FRENO;Livello olio basso nel compressore 1;2;0.81;2;2
+238;41353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M1;2;0.00;2;2
+238;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;2;0.00;2;2
+263;82093;_SnsDmprY70_;HVAC_T2;Guasto al sensore del damper Y70;3;3.80;2;2
+263;85094;_SnsDmprY75_;HVAC_T5;Guasto al sensore del damper Y75;3;3.80;2;2
+263;86094;_SnsDmprY75_;HVAC_M6;Guasto al sensore del damper Y75;3;3.80;2;2
+274;15051;_HVACpxNotOK_;HVAC_T5;Perdita di comunicazione con HVAC T5;2;2.30;2;2
+274;16051;_HVACpxNotOK_;HVAC_M6;Perdita di comunicazione con HVAC M6;2;2.30;2;2
+280;14051;_HVACpxNotOK_;HVAC_T4;Perdita di comunicazione con HVAC T4;2;2.90;2;2
+280;16051;_HVACpxNotOK_;HVAC_M6;Perdita di comunicazione con HVAC M6;2;2.90;2;2
+281;12051;_HVACpxNotOK_;HVAC_T2;Perdita di comunicazione con HVAC T2;2;2.50;2;2
+281;14051;_HVACpxNotOK_;HVAC_T4;Perdita di comunicazione con HVAC T4;2;2.50;2;2
+296;12051;_HVACpxNotOK_;HVAC_T2;Perdita di comunicazione con HVAC T2;2;2.90;2;2
+296;13051;_HVACpxNotOK_;HVAC_M3;Perdita di comunicazione con HVAC M3;2;2.90;2;2
+308;150012;_CmdPantoUp_;VEHICLE;Comando alzamento panto da banco;2;0.44;2;2
+308;EVT_PantoDC_T7_22;EVT_PantoDC_T7_22;T7_Panto3kV;Cod 22. Guasto centralina EPCU di controllo Pantografo;2;0.44;2;2
+316;103036;_IDoorUnblock_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;2.29;2;2
+316;103038;_IDoorDCSFlt_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;3;2.29;2;2
+316;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);3;2.29;2;2
+319;103036;_IDoorUnblock_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;3.60;2;2
+319;103038;_IDoorDCSFlt_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;4;3.60;2;2
+319;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;4;3.60;2;2
+319;ILCK_PROP_22M8;ILCK_PROP_22M8;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;4;3.60;2;2
+327;106028;_IDoorUnblock_;M6_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;5.90;2;2
+327;106030;_IDoorDCSFlt_;M6_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;5.90;2;2
+327;107036;_IDoorUnblock_;T7_Porta_gangway_2;Guasto microswitch porta Gangway 2;5;5.90;2;2
+327;107038;_IDoorDCSFlt_;T7_Porta_gangway_2;Guasto microswitch porta Gangway 2;5;5.90;2;2
+327;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;5;5.90;2;2
+340;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;3;1.60;2;2
+340;104028;_IDoorUnblock_;T4_Porta_gangway_1;Guasto microswitch porta Gangway 1;3;1.60;2;2
+340;104030;_IDoorDCSFlt_;T4_Porta_gangway_1;Guasto microswitch porta Gangway 1;3;1.60;2;2
+353;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;2;0.60;2;2
+353;ILCK_PROP_12M1;ILCK_PROP_12M1;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;2;0.60;2;2
+356;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;3;0.70;2;2
+356;ILCK_PROP_11M1;ILCK_PROP_11M1;MDS;Cod. 11 Rilascio Porte Destre Attivo;3;0.70;2;2
+356;ILCK_PROP_12M1;ILCK_PROP_12M1;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;3;0.70;2;2
+363;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);4;0.60;2;2
+363;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;4;0.60;2;2
+363;ILCK_PROP_11M1;ILCK_PROP_11M1;MDS;Cod. 11 Rilascio Porte Destre Attivo;4;0.60;2;2
+363;ILCK_PROP_12M1;ILCK_PROP_12M1;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;4;0.60;2;2
+372;101028;_IDoorUnblock_;M1_Porta_gangway_1;Guasto microswitch porta Gangway;3;4.80;2;2
+372;101030;_IDoorDCSFlt_;M1_Porta_gangway_1;Guasto microswitch porta Gangway;3;4.80;2;2
+372;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;3;4.80;2;2
+383;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;3;2.40;2;2
+383;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;3;2.40;2;2
+383;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;3;2.40;2;2
+387;137017;_StToiletSys_;TOIL_T7;Toilette fuori servizio veicolo T7;2;1.70;2;2
+387;137024;_FirstValveFlt_;TOIL_T7;Guasto valvola primaria WC toilette T7;2;1.70;2;2
+407;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;5;5.80;2;2
+407;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;5;5.80;2;2
+407;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;5;5.80;2;2
+407;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;5;5.80;2;2
+407;ILCK_PROP_12M1;ILCK_PROP_12M1;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;5;5.80;2;2
+419;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;3;1.30;2;2
+419;108028;_IDoorUnblock_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;3;1.30;2;2
+419;108030;_IDoorDCSFlt_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;3;1.30;2;2
+436;107028;_IDoorUnblock_;T7_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;5.60;2;2
+436;107030;_IDoorDCSFlt_;T7_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;5.60;2;2
+436;108028;_IDoorUnblock_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;5;5.60;2;2
+436;108030;_IDoorDCSFlt_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;5;5.60;2;2
+436;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;5;5.60;2;2
+437;107028;_IDoorUnblock_;T7_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;5.30;2;2
+437;107030;_IDoorDCSFlt_;T7_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;5.30;2;2
+437;108028;_IDoorUnblock_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;5;5.30;2;2
+437;108030;_IDoorDCSFlt_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;5;5.30;2;2
+437;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;5;5.30;2;2
+438;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;5;7.30;2;2
+438;107028;_IDoorUnblock_;T7_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;7.30;2;2
+438;107030;_IDoorDCSFlt_;T7_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;7.30;2;2
+438;108028;_IDoorUnblock_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;5;7.30;2;2
+438;108030;_IDoorDCSFlt_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;5;7.30;2;2
+442;41042;_Ed1Low_;BCU_M1;Sforzo frenatura dinamica insufficiente in frenatura di servizio;3;0.40;2;2
+442;43043;_Ed2Low_;BCU_M3;Sforzo frenatura dinamica insufficiente in frenatura di servizio;3;0.40;2;2
+442;46043;_Ed2Low_;BCU_M6;Sforzo frenatura dinamica insufficiente in frenatura di servizio;3;0.40;2;2
+458;18201;CCU_FltWtbR2;VEHICLE;Mancata ricezione R2 in CCU M8;12;9.90;2;2
+458;18202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M8;12;9.90;2;2
+458;150007;_Standby_;VEHICLE;Stato STANDBY attivo;12;9.90;2;2
+458;150009;_Parking_;VEHICLE;Stato PARKING attivo;12;9.90;2;2
+458;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);12;9.90;2;2
+458;151014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T2;12;9.90;2;2
+458;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;12;9.90;2;2
+458;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;12;9.90;2;2
+458;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;12;9.90;2;2
+458;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;12;9.90;2;2
+458;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;12;9.90;2;2
+458;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;12;9.90;2;2
+465;151024;_Rear_;VEHICLE;Direzione indietro in M1;3;1.50;2;2
+465;158023;_Front_;VEHICLE;Direzione avanti in M8;3;1.50;2;2
+465;ILCK_PROP_10;ILCK_PROP_10;VEHICLE;Cod. 10 Nessuna velocita' impostata;3;1.50;2;2
+478;102036;_IDoorUnblock_;T2_Porta_gangway_2;Guasto microswitch porta Gangway 2;5;4.10;2;2
+478;102038;_IDoorDCSFlt_;T2_Porta_gangway_2;Guasto microswitch porta Gangway 2;5;4.10;2;2
+478;103028;_IDoorUnblock_;M3_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;4.10;2;2
+478;103030;_IDoorDCSFlt_;M3_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;4.10;2;2
+478;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;5;4.10;2;2
+479;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;5;5.60;2;2
+479;102036;_IDoorUnblock_;T2_Porta_gangway_2;Guasto microswitch porta Gangway 2;5;5.60;2;2
+479;102038;_IDoorDCSFlt_;T2_Porta_gangway_2;Guasto microswitch porta Gangway 2;5;5.60;2;2
+479;103028;_IDoorUnblock_;M3_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;5.60;2;2
+479;103030;_IDoorDCSFlt_;M3_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;5.60;2;2
+500;41353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M1;9;8.90;2;2
+500;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;9;8.90;2;2
+500;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;9;8.90;2;2
+500;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;9;8.90;2;2
+500;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;9;8.90;2;2
+500;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;9;8.90;2;2
+500;ILCK_PROP_11M1;ILCK_PROP_11M1;MDS;Cod. 11 Rilascio Porte Destre Attivo;9;8.90;2;2
+500;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;9;8.90;2;2
+500;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;9;8.90;2;1
+501;105028;_IDoorUnblock_;T5_Porta_gangway_1;Guasto microswitch porta Gangway 1;6;7.20;2;2
+501;105030;_IDoorDCSFlt_;T5_Porta_gangway_1;Guasto microswitch porta Gangway 1;6;7.20;2;2
+501;106036;_IDoorUnblock_;M6_Porta_gangway_2;Guasto microswitch porta Gangway 2;6;7.20;2;2
+501;106038;_IDoorDCSFlt_;M6_Porta_gangway_2;Guasto microswitch porta Gangway 2;6;7.20;2;2
+501;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;6;7.20;2;2
+501;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;6;7.20;2;2
+516;41353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M1;6;4.20;2;2
+516;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;6;4.20;2;2
+516;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;6;4.20;2;2
+516;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;6;4.20;2;2
+516;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;6;4.20;2;2
+516;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;6;4.20;2;2
+531;81171;_CabDamperY5S2ntop_;HVAC_CAB_M1;Mancata apertura damper Y5_S;4;0.70;2;2
+531;82079;_SnsrHighprssrB46_;HVAC_T2;Guasto sensore di pressione B46;4;0.70;2;2
+531;82124;_ExhstDmprS82NtOp_;HVAC_T2;Mancata chiusura damper S82;4;0.70;2;2
+531;86079;_SnsrHighprssrB46_;HVAC_M6;Guasto sensore di pressione B46;4;0.70;2;1
+572;28219;_MCQ1SwitchSts_;TCU_M8;Guasto interruttore di isolamento 25 kV (stato);2;0.00;2;2
+572;26219;_MCQ1SwitchSts_;TCU_M6;Guasto interruttore di isolamento 25 kV (stato);2;0.00;2;1
+577;41068;_BCUBpLeakFlt_;BCU_M1;Rilevata perdita nella condotta freno;2;0.10;2;2
+577;41264;_BpLeakFlt_;FRENO;Rilevata perdita condotta freno e direzione marcia non in posizione neutra;2;0.10;2;1
+591;107010;_IDoorUnblock_;T7_Porta_comparto_1;Guasto microswitch porta interna 1;3;0.90;2;2
+591;107012;_IDoorDCSFlt_;T7_Porta_comparto_1;Guasto microswitch porta interna 1;3;0.90;2;2
+591;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;3;0.90;2;1
+606;41353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M1;9;15.41;2;2
+606;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;9;15.41;2;2
+606;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;9;15.41;2;2
+606;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;9;15.41;2;2
+606;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;9;15.41;2;2
+606;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;9;15.41;2;2
+606;ILCK_PROP_12M1;ILCK_PROP_12M1;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;9;15.41;2;2
+606;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;9;15.41;2;2
+606;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;9;15.41;2;1
+624;150011;_PantoLowSts_;VEHICLE;Nessun pantografo alto;3;2.40;2;2
+624;ILCK_IR_T7_42;ILCK_IR_T7_42;T2_1Q2_IR;Cod 42. Pantografo DC non alto;3;2.40;2;2
+624;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;3;2.40;2;1
+642;21456;MIC_INV_ALRM_RHEO_BLOC_NO_APIR;CONV_TRAZ_M1;Allarme blocco restato;7;8.40;2;2
+642;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;7;8.40;2;2
+642;26456;MIC_INV_ALRM_RHEO_BLOC_NO_APIR;CONV_TRAZ_M6;Allarme blocco restato;7;8.40;2;2
+642;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;7;8.40;2;2
+642;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;7;8.40;2;2
+642;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;7;8.40;2;2
+642;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;7;8.40;2;2
+645;11201;CCU_FltWtbR2;VEHICLE;Mancata ricezione R2 in CCU M1;8;0.30;2;2
+645;11202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M1;8;0.30;2;2
+645;150007;_Standby_;VEHICLE;Stato STANDBY attivo;8;0.30;2;2
+645;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;8;0.30;2;2
+645;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;8;0.30;2;2
+645;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;8;0.30;2;2
+645;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;8;0.30;2;2
+645;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;8;0.30;2;2
+658;18200;CCU_FltWtbR1;VEHICLE;Mancata ricezione R1 in CCU M8;16;4.50;2;2
+658;18202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M8;16;4.50;2;2
+658;150006;_Running_;VEHICLE;Stato RUNNING attivo;16;4.50;2;2
+658;150007;_Standby_;VEHICLE;Stato STANDBY attivo;16;4.50;2;2
+658;151002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M1;16;4.50;2;2
+658;151003;_CabOccupied_;M1_4K14;Banco Abilitato M1;16;4.50;2;2
+658;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;16;4.50;2;2
+658;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;16;4.50;2;2
+658;ILCK_PROP_02;ILCK_PROP_02;VEHICLE;Cod. 02 Taglio trazione comandato da RCEC;16;4.50;2;2
+658;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;16;4.50;2;2
+658;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;16;4.50;2;2
+658;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;16;4.50;2;2
+658;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;16;4.50;2;2
+658;ILCK_PROP_20M1;ILCK_PROP_20M1;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);16;4.50;2;2
+658;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;16;4.50;2;2
+658;41069;_EpEscFlt_;BCU_M1;Assistenza EP fuori servizio;16;4.50;2;1
+675;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;9;4.60;2;2
+675;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;9;4.60;2;2
+675;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;9;4.60;2;2
+675;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;9;4.60;2;2
+675;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;9;4.60;2;2
+675;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;9;4.60;2;2
+675;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;9;4.60;2;2
+675;ILCK_PROP_22M1;ILCK_PROP_22M1;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;9;4.60;2;2
+675;ILCK_PROP_17M1;ILCK_PROP_17M1;MDS;Cod. 17 Filo treno Taglio Trazione non alimentato;9;4.60;2;1
+680;103044;_IDoorUnblock_;M3_Porta_intermedia;Guasto microswitch porta intermedia;2;0.00;2;2
+680;103046;_IDoorDCSFlt_;M3_Porta_intermedia;Guasto microswitch porta intermedia;2;0.00;2;2
+685;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;12;17.40;2;2
+685;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;12;17.40;2;2
+685;41353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M1;12;17.40;2;2
+685;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;12;17.40;2;2
+685;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;12;17.40;2;2
+685;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;12;17.40;2;2
+685;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;12;17.40;2;2
+685;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;12;17.40;2;2
+685;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;12;17.40;2;2
+685;ILCK_PROP_20M1;ILCK_PROP_20M1;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);12;17.40;2;2
+685;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;12;17.40;2;1
+685;ILCK_PROP_02;ILCK_PROP_02;VEHICLE;Cod. 02 Taglio trazione comandato da RCEC;12;17.40;2;1
+689;104044;_IDoorUnblock_;T4_Porta_bar;Guasto microswitch porta bar;2;0.00;2;2
+689;104046;_IDoorDCSFlt_;T4_Porta_bar;Guasto microswitch porta bar;2;0.00;2;2
+691;106028;_IDoorUnblock_;M6_Porta_gangway_1;Guasto microswitch porta Gangway 1;8;11.80;2;2
+691;106030;_IDoorDCSFlt_;M6_Porta_gangway_1;Guasto microswitch porta Gangway 1;8;11.80;2;2
+691;107036;_IDoorUnblock_;T7_Porta_gangway_2;Guasto microswitch porta Gangway 2;8;11.80;2;2
+691;107038;_IDoorDCSFlt_;T7_Porta_gangway_2;Guasto microswitch porta Gangway 2;8;11.80;2;2
+691;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;8;11.80;2;2
+691;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;8;11.80;2;2
+691;ILCK_PROP_17M1;ILCK_PROP_17M1;MDS;Cod. 17 Filo treno Taglio Trazione non alimentato;8;11.80;2;2
+691;ILCK_PROP_22M1;ILCK_PROP_22M1;MDS;Cod. 22 Manettino fuori coasting dopo taglio trazione;8;11.80;2;2
+702;11200;CCU_FltWtbR1;VEHICLE;Mancata ricezione R1 in CCU M1;18;0.96;2;2
+702;11202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M1;18;0.96;2;2
+702;150006;_Running_;VEHICLE;Stato RUNNING attivo;18;0.96;2;2
+702;150012;_CmdPantoUp_;VEHICLE;Comando alzamento panto da banco;18;0.96;2;2
+702;158002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M8;18;0.96;2;2
+702;158003;_CabOccupied_;M1_4K14;Banco Abilitato M8;18;0.96;2;2
+702;EVT_IRIP_T2_68;EVT_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;18;0.96;2;2
+702;EVT_Panto_T2_45;EVT_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;18;0.96;2;2
+702;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;18;0.96;2;2
+702;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;18;0.96;2;2
+702;ILCK_PROP_12M8;ILCK_PROP_12M8;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;18;0.96;2;2
+702;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;18;0.96;2;2
+702;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;18;0.96;2;2
+702;ILCK_PROP_18M8;ILCK_PROP_18M8;MDS;Cod. 18 Linea Emergenza Attiva;18;0.96;2;2
+702;ILCK_PROP_20M8;ILCK_PROP_20M8;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);18;0.96;2;2
+702;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;18;0.96;2;2
+702;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;18;0.96;2;1
+702;ILCK_PROP_11M8;ILCK_PROP_11M8;MDS;Cod. 11 Rilascio Porte Destre Attivo;18;0.96;2;1
+715;23476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M3;Apertura forz. contatt. Convert. Princip. DC;10;2.10;2;2
+715;28476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M8;Apertura forz. contatt. Convert. Princip. DC;10;2.10;2;2
+715;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;10;2.10;2;2
+715;150018;_CmdOpenIR_;VEHICLE;Comando apertura IR/IP da banco;10;2.10;2;2
+715;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;10;2.10;2;2
+715;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;10;2.10;2;2
+715;ILCK_IRIP_T2_28;ILCK_IRIP_T2_28;T2_MCB;Cod 28. Apertura Interruttore principale richiesto DRIVER da banco Abilitato;10;2.10;2;2
+715;ILCK_IRIP_T7_13;ILCK_IRIP_T7_13;T7_MCB;Cod 13. Apertura IR/IP da TRAIN LINE;10;2.10;2;2
+715;ILCK_PROP_21M1;ILCK_PROP_21M1;MDS;Cod. 21 AT non presente;10;2.10;2;2
+715;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;10;2.10;2;1
+718;150017;_CmdCloseIR_;VEHICLE;Comando chiusura IR/IP da banco;9;8.40;2;2
+718;157019;_1Q21_;T7_1Q2_IR;IR chiuso in cassa T7;9;8.40;2;2
+718;EVT_IP_T2_47;EVT_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;9;8.40;2;2
+718;EVT_IP_T7_47;EVT_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;9;8.40;2;2
+718;ILCK_IR_T2_01;ILCK_IR_T2_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;9;8.40;2;2
+718;ILCK_IR_T7_01;ILCK_IR_T7_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;9;8.40;2;2
+718;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;9;8.40;2;2
+718;21219;_MCQ1SwitchSts_;TCU_M1;Guasto interruttore di isolamento 25 kV (stato);9;8.40;2;1
+718;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);9;8.40;2;1
+722;23476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M3;Apertura forz. contatt. Convert. Princip. DC;9;16.10;2;2
+722;28476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M8;Apertura forz. contatt. Convert. Princip. DC;9;16.10;2;2
+722;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;9;16.10;2;2
+722;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;9;16.10;2;2
+722;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;9;16.10;2;2
+722;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;9;16.10;2;2
+722;45281;_Cmpr2OilLvlFlt_;FRENO;Livello olio basso nel compressore 2;9;16.10;2;1
+722;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;9;16.10;2;1
+722;ILCK_PROP_11M1;ILCK_PROP_11M1;MDS;Cod. 11 Rilascio Porte Destre Attivo;9;16.10;2;1
+736;18201;CCU_FltWtbR2;VEHICLE;Mancata ricezione R2 in CCU M8;11;8.70;2;2
+736;18202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M8;11;8.70;2;2
+736;150007;_Standby_;VEHICLE;Stato STANDBY attivo;11;8.70;2;2
+736;150009;_Parking_;VEHICLE;Stato PARKING attivo;11;8.70;2;2
+736;158014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T7;11;8.70;2;2
+736;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;11;8.70;2;2
+736;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;11;8.70;2;2
+736;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;11;8.70;2;2
+736;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;11;8.70;2;2
+736;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;11;8.70;2;2
+736;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;11;8.70;2;2
+755;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;12;8.40;2;2
+755;11051;_HVACpxNotOK_;HVAC_M1;Perdita di comunicazione con HVAC M1;12;8.40;2;2
+755;12051;_HVACpxNotOK_;HVAC_T2;Perdita di comunicazione con HVAC T2;12;8.40;2;2
+755;13051;_HVACpxNotOK_;HVAC_M3;Perdita di comunicazione con HVAC M3;12;8.40;2;2
+755;14051;_HVACpxNotOK_;HVAC_T4;Perdita di comunicazione con HVAC T4;12;8.40;2;2
+755;15051;_HVACpxNotOK_;HVAC_T5;Perdita di comunicazione con HVAC T5;12;8.40;2;2
+755;16051;_HVACpxNotOK_;HVAC_M6;Perdita di comunicazione con HVAC M6;12;8.40;2;2
+755;17051;_HVACpxNotOK_;HVAC_T7;Perdita di comunicazione con HVAC T7;12;8.40;2;2
+755;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;12;8.40;2;2
+755;18051;_HVACpxNotOK_;HVAC_M8;Perdita di comunicazione con HVAC M8;12;8.40;2;2
+755;23062;DIO_DI_FL1;CONV_TRAZ_M3;H2O: FL1 - flusso circ. trattamento basso;12;8.40;2;1
+755;23206;_H2OWarn_;TCU_M3;Guasto centralina idraulica TACU M3;12;8.40;2;1
+757;12215;CCU_1Q7_11;T2_1Q7;Incongruenza contatti 1Q7 in T2 (11);6;3.72;2;2
+757;150004;_LineVoltType_;VEHICLE;Selezionata tensione 3 kV;6;3.72;2;2
+757;150006;_Running_;VEHICLE;Stato RUNNING attivo;6;3.72;2;2
+757;ILCK_IP_T2_47;ILCK_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;6;3.72;2;2
+757;ILCK_IP_T7_47;ILCK_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;6;3.72;2;2
+757;ILCK_IR_T7_42;ILCK_IR_T7_42;T2_1Q2_IR;Cod 42. Pantografo DC non alto;6;3.72;2;2
+762;21219;_MCQ1SwitchSts_;TCU_M1;Guasto interruttore di isolamento 25 kV (stato);14;6.00;2;2
+762;28219;_MCQ1SwitchSts_;TCU_M8;Guasto interruttore di isolamento 25 kV (stato);14;6.00;2;2
+762;150011;_PantoLowSts_;VEHICLE;Nessun pantografo alto;14;6.00;2;2
+762;150013;_CmdPantoDw_;VEHICLE;Comando abbassamento panto da banco;14;6.00;2;2
+762;ILCK_IR_T2_01;ILCK_IR_T2_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;14;6.00;2;2
+762;ILCK_IR_T2_42;ILCK_IR_T2_42;T2_1Q2_IR;Cod 42. Pantografo DC non alto;14;6.00;2;2
+762;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;14;6.00;2;2
+762;ILCK_Panto_T2_08;ILCK_Panto_T2_08;T2_PANTO;Cod 08. Comando abbassamento da selettore Panto;14;6.00;2;2
+762;ILCK_Panto_T2_16;ILCK_Panto_T2_16;T2_PANTO;Cod 16. Filo treno di abbassamento Panto Attivo;14;6.00;2;2
+762;ILCK_Panto_T7_07;ILCK_Panto_T7_07;T7_PANTO;Cod 07. Comando abbassamento panto richiesto da remoto;14;6.00;2;2
+762;ILCK_Panto_T7_16;ILCK_Panto_T7_16;T7_PANTO;Cod 16. Filo treno di abbassamento Panto Attivo;14;6.00;2;2
+762;23219;_MCQ1SwitchSts_;TCU_M3;Guasto interruttore di isolamento 25 kV (stato);14;6.00;2;1
+762;26219;_MCQ1SwitchSts_;TCU_M6;Guasto interruttore di isolamento 25 kV (stato);14;6.00;2;1
+762;ILCK_IR_T7_01;ILCK_IR_T7_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;14;6.00;2;1
+768;18200;CCU_FltWtbR1;VEHICLE;Mancata ricezione R1 in CCU M8;19;3.90;2;2
+768;18202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M8;19;3.90;2;2
+768;150006;_Running_;VEHICLE;Stato RUNNING attivo;19;3.90;2;2
+768;151002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M1;19;3.90;2;2
+768;151003;_CabOccupied_;M1_4K14;Banco Abilitato M1;19;3.90;2;2
+768;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;19;3.90;2;2
+768;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;19;3.90;2;2
+768;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;19;3.90;2;2
+768;ILCK_PROP_11M1;ILCK_PROP_11M1;MDS;Cod. 11 Rilascio Porte Destre Attivo;19;3.90;2;2
+768;ILCK_PROP_12M1;ILCK_PROP_12M1;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;19;3.90;2;2
+768;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;19;3.90;2;2
+768;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;19;3.90;2;2
+768;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;19;3.90;2;2
+768;ILCK_PROP_20M1;ILCK_PROP_20M1;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);19;3.90;2;2
+768;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;19;3.90;2;2
+768;18201;CCU_FltWtbR2;VEHICLE;Mancata ricezione R2 in CCU M8;19;3.90;2;1
+768;41069;_EpEscFlt_;BCU_M1;Assistenza EP fuori servizio;19;3.90;2;1
+768;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;19;3.90;2;1
+768;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;19;3.90;2;1
+789;150017;_CmdCloseIR_;VEHICLE;Comando chiusura IR/IP da banco;12;9.01;2;2
+789;151014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T2;12;9.01;2;2
+789;EVT_IP_T2_47;EVT_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;12;9.01;2;2
+789;EVT_IP_T7_47;EVT_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;12;9.01;2;2
+789;EVT_IR_T2_01;EVT_IR_T2_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;12;9.01;2;2
+789;EVT_IR_T2_40;EVT_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;12;9.01;2;2
+789;EVT_IR_T7_01;EVT_IR_T7_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;12;9.01;2;2
+789;ILCK_IR_T2_01;ILCK_IR_T2_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;12;9.01;2;2
+789;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;12;9.01;2;2
+789;ILCK_IR_T7_01;ILCK_IR_T7_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;12;9.01;2;2
+789;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;12;9.01;2;1
+789;152019;_1Q21_;T2_1Q2_IR;IR chiuso in cassa T2;12;9.01;2;1
+797;150013;_CmdPantoDw_;VEHICLE;Comando abbassamento panto da banco;14;2.40;2;2
+797;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;14;2.40;2;2
+797;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;14;2.40;2;2
+797;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;14;2.40;2;2
+797;ILCK_PROP_21M1;ILCK_PROP_21M1;MDS;Cod. 21 AT non presente;14;2.40;2;2
+797;ILCK_Panto_T2_08;ILCK_Panto_T2_08;T2_PANTO;Cod 08. Comando abbassamento da selettore Panto;14;2.40;2;2
+797;ILCK_Panto_T7_07;ILCK_Panto_T7_07;T7_PANTO;Cod 07. Comando abbassamento panto richiesto da remoto;14;2.40;2;2
+797;ILCK_Panto_T7_16;ILCK_Panto_T7_16;T7_PANTO;Cod 16. Filo treno di abbassamento Panto Attivo;14;2.40;2;2
+797;23476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M3;Apertura forz. contatt. Convert. Princip. DC;14;2.40;2;1
+797;28062;DIO_DI_FL1;CONV_TRAZ_M8;H2O: FL1 - flusso circ. trattamento basso;14;2.40;2;1
+797;28206;_H2OWarn_;TCU_M8;Guasto centralina idraulica TACU M8;14;2.40;2;1
+797;28476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M8;Apertura forz. contatt. Convert. Princip. DC;14;2.40;2;1
+797;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;14;2.40;2;1
+797;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;14;2.40;2;1
+802;18200;CCU_FltWtbR1;VEHICLE;Mancata ricezione R1 in CCU M8;21;2.90;2;2
+802;18202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M8;21;2.90;2;2
+802;41352;6S01_Emg;FRENO;Frenatura di emergenza attivata da leva di trazione in M1;21;2.90;2;2
+802;150007;_Standby_;VEHICLE;Stato STANDBY attivo;21;2.90;2;2
+802;151002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M1;21;2.90;2;2
+802;151003;_CabOccupied_;M1_4K14;Banco Abilitato M1;21;2.90;2;2
+802;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;21;2.90;2;2
+802;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;21;2.90;2;2
+802;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;21;2.90;2;2
+802;ILCK_PROP_12M1;ILCK_PROP_12M1;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;21;2.90;2;2
+802;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;21;2.90;2;2
+802;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;21;2.90;2;2
+802;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;21;2.90;2;2
+802;ILCK_PROP_19M1;ILCK_PROP_19M1;MDS;Cod. 19 Maniglia Allarme Passeggeri Attivata;21;2.90;2;2
+802;ILCK_PROP_20M1;ILCK_PROP_20M1;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);21;2.90;2;2
+802;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;21;2.90;2;2
+802;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;21;2.90;2;2
+802;82093;_SnsDmprY70_;HVAC_T2;Guasto al sensore del damper Y70;21;2.90;2;1
+802;88093;_SnsDmprY70_;HVAC_M8;Guasto al sensore del damper Y70;21;2.90;2;1
+802;150006;_Running_;VEHICLE;Stato RUNNING attivo;21;2.90;2;1
+802;ILCK_PROP_11M1;ILCK_PROP_11M1;MDS;Cod. 11 Rilascio Porte Destre Attivo;21;2.90;2;1
+806;161002;SAI_OutServ;ANTINCENDIO;Avaria sistema antincendio;8;0.40;2;2
+806;162002;SAI_OutServ;ANTINCENDIO;Avaria sistema antincendio;8;0.40;2;2
+806;163002;SAI_OutServ;ANTINCENDIO;Avaria sistema antincendio;8;0.40;2;2
+806;164002;SAI_OutServ;ANTINCENDIO;Avaria sistema antincendio;8;0.40;2;2
+806;165002;SAI_OutServ;ANTINCENDIO;Avaria sistema antincendio;8;0.40;2;2
+806;166002;SAI_OutServ;ANTINCENDIO;Avaria sistema antincendio;8;0.40;2;2
+806;167002;SAI_OutServ;ANTINCENDIO;Avaria sistema antincendio;8;0.40;2;2
+806;168002;SAI_OutServ;ANTINCENDIO;Avaria sistema antincendio;8;0.40;2;2
+807;21192;_tcu1OK_;TCU_M1;Auto esclusione convertitore M1;86;0.00;2;2
+807;21226;_TCUCmdApir_;TCU_M1;Comando apertura IR da TCU1 attivo;86;0.00;2;2
+807;23192;_tcu2OK_;TCU_M3;Auto esclusione convertitore M3;86;0.00;2;2
+807;23226;_TCUCmdApir_;TCU_M3;Comando apertura IR da TCU2 attivo;86;0.00;2;2
+807;26192;_tcu2OK_;TCU_M6;Auto esclusione convertitore M6;86;0.00;2;2
+807;26226;_TCUCmdApir_;TCU_M6;Comando apertura IR da TCU3 attivo;86;0.00;2;2
+807;27872;_2F47_;T7_2F47;Intervento 2F47 (Toilette) in T7;86;0.00;2;2
+807;28192;_tcu1OK_;TCU_M8;Auto esclusione convertitore M8;86;0.00;2;2
+807;28226;_TCUCmdApir_;TCU_M8;Comando apertura IR da TCU4 attivo;86;0.00;2;2
+807;41001;_BCUPwrOn_;BCU_M1;Avvio centralina BCU M1;86;0.00;2;2
+807;41025;_IRV1AuxResOutRngFlt_;BCU_M1;Pressione serbatoio ausiliario fuori limite (carrello 1);86;0.00;2;2
+807;41031;_IRV2AuxResOutRngFlt_;BCU_M1;Pressione serbatoio ausiliario fuori limite (carrello 2);86;0.00;2;2
+807;41257;_9S06On_;M1_9S06;Dispositivo 9S06 attivo (assistenza EP isolata);86;0.00;2;2
+807;42001;_BCUPwrOn_;BCU_T2;Avvio centralina BCU T2;86;0.00;2;2
+807;42025;_IRV1AuxResOutRngFlt_;BCU_T2;Pressione serbatoio ausiliario fuori limite (carrello 1);86;0.00;2;2
+807;42031;_IRV2AuxResOutRngFlt_;BCU_T2;Pressione serbatoio ausiliario fuori limite (carrello 2);86;0.00;2;2
+807;43001;_BCUPwrOn_;BCU_M3;Avvio centralina BCU M3;86;0.00;2;2
+807;43025;_IRV1AuxResOutRngFlt_;BCU_M3;Pressione serbatoio ausiliario fuori limite (carrello 1);86;0.00;2;2
+807;44001;_BCUPwrOn_;BCU_T4;Avvio centralina BCU T4;86;0.00;2;2
+807;45001;_BCUPwrOn_;BCU_T5;Avvio centralina BCU T5;86;0.00;2;2
+807;45025;_IRV1AuxResOutRngFlt_;BCU_T5;Pressione serbatoio ausiliario fuori limite (carrello 1);86;0.00;2;2
+807;45031;_IRV2AuxResOutRngFlt_;BCU_T5;Pressione serbatoio ausiliario fuori limite (carrello 2);86;0.00;2;2
+807;46001;_BCUPwrOn_;BCU_M6;Avvio centralina BCU M6;86;0.00;2;2
+807;47001;_BCUPwrOn_;BCU_T7;Avvio centralina BCU T7;86;0.00;2;2
+807;47025;_IRV1AuxResOutRngFlt_;BCU_T7;Pressione serbatoio ausiliario fuori limite (carrello 1);86;0.00;2;2
+807;47031;_IRV2AuxResOutRngFlt_;BCU_T7;Pressione serbatoio ausiliario fuori limite (carrello 2);86;0.00;2;2
+807;48001;_BCUPwrOn_;BCU_M8;Avvio centralina BCU M8;86;0.00;2;2
+807;48025;_IRV1AuxResOutRngFlt_;BCU_M8;Pressione serbatoio ausiliario fuori limite (carrello 1);86;0.00;2;2
+807;48031;_IRV2AuxResOutRngFlt_;BCU_M8;Pressione serbatoio ausiliario fuori limite (carrello 2);86;0.00;2;2
+807;48099;_D_SUSP_LOW2_;BCU_M8;Press. Sospens. fuori range (carrello 2) DOWN;86;0.00;2;2
+807;91150;_EDCU_LwSpdFlt_;EDCU_M1_1;Incorenza sts velocita' 0 porta 1 M1;86;0.00;2;2
+807;91151;_EDCU_LwSpdFlt_;EDCU_M1_2;Incorenza sts velocita' 0 porta 2 M1;86;0.00;2;2
+807;92015;_10K19Flt0_;PORTE_EST;Indebita eccitazione 10K19 veicolo T2;86;0.00;2;2
+807;92150;_EDCU_LwSpdFlt_;EDCU_T2_1;Incorenza sts velocita' 0 porta 1 T2;86;0.00;2;2
+807;92151;_EDCU_LwSpdFlt_;EDCU_T2_2;Incorenza sts velocita' 0 porta 2 T2;86;0.00;2;2
+807;92152;_EDCU_LwSpdFlt_;EDCU_T2_3;Incorenza sts velocita' 0 porta 3 T2;86;0.00;2;2
+807;92153;_EDCU_LwSpdFlt_;EDCU_T2_4;Incorenza sts velocita' 0 porta 4 T2;86;0.00;2;2
+807;93015;_10K19Flt0_;PORTE_EST;Indebita eccitazione 10K19 veicolo M3;86;0.00;2;2
+807;93150;_EDCU_LwSpdFlt_;EDCU_M3_1;Incorenza sts velocita' 0 porta 1 M3;86;0.00;2;2
+807;93151;_EDCU_LwSpdFlt_;EDCU_M3_2;Incorenza sts velocita' 0 porta 2 M3;86;0.00;2;2
+807;93152;_EDCU_LwSpdFlt_;EDCU_M3_3;Incorenza sts velocita' 0 porta 3 M3;86;0.00;2;2
+807;93153;_EDCU_LwSpdFlt_;EDCU_M3_4;Incorenza sts velocita' 0 porta 4 M3;86;0.00;2;2
+807;94150;_EDCU_LwSpdFlt_;EDCU_T4_1;Incorenza sts velocita' 0 porta 1 T4;86;0.00;2;2
+807;94151;_EDCU_LwSpdFlt_;EDCU_T4_2;Incorenza sts velocita' 0 porta 2 T4;86;0.00;2;2
+807;95015;_10K19Flt0_;PORTE_EST;Indebita eccitazione 10K19 veicolo T5;86;0.00;2;2
+807;95150;_EDCU_LwSpdFlt_;EDCU_T5_1;Incorenza sts velocita' 0 porta 1 T5;86;0.00;2;2
+807;95151;_EDCU_LwSpdFlt_;EDCU_T5_2;Incorenza sts velocita' 0 porta 2 T5;86;0.00;2;2
+807;96015;_10K19Flt0_;PORTE_EST;Indebita eccitazione 10K19 veicolo M6;86;0.00;2;2
+807;96150;_EDCU_LwSpdFlt_;EDCU_M6_1;Incorenza sts velocita' 0 porta 1 M6;86;0.00;2;2
+807;96151;_EDCU_LwSpdFlt_;EDCU_M6_2;Incorenza sts velocita' 0 porta 2 M6;86;0.00;2;2
+807;96152;_EDCU_LwSpdFlt_;EDCU_M6_3;Incorenza sts velocita' 0 porta 3 M6;86;0.00;2;2
+807;96153;_EDCU_LwSpdFlt_;EDCU_M6_4;Incorenza sts velocita' 0 porta 4 M6;86;0.00;2;2
+807;97015;_10K19Flt0_;PORTE_EST;Indebita eccitazione 10K19 veicolo T7;86;0.00;2;2
+807;97150;_EDCU_LwSpdFlt_;EDCU_T7_1;Incorenza sts velocita' 0 porta 1 T7;86;0.00;2;2
+807;97151;_EDCU_LwSpdFlt_;EDCU_T7_2;Incorenza sts velocita' 0 porta 2 T7;86;0.00;2;2
+807;97152;_EDCU_LwSpdFlt_;EDCU_T7_3;Incorenza sts velocita' 0 porta 3 T7;86;0.00;2;2
+807;97153;_EDCU_LwSpdFlt_;EDCU_T7_4;Incorenza sts velocita' 0 porta 4 T7;86;0.00;2;2
+807;98150;_EDCU_LwSpdFlt_;EDCU_M8_1;Incorenza sts velocita' 0 porta 1 M8;86;0.00;2;2
+807;98151;_EDCU_LwSpdFlt_;EDCU_M8_2;Incorenza sts velocita' 0 porta 2 M8;86;0.00;2;2
+807;132017;_StToiletSys_;TOIL_T2;Toilette fuori servizio veicolo T2;86;0.00;2;2
+807;137017;_StToiletSys_;TOIL_T7;Toilette fuori servizio veicolo T7;86;0.00;2;2
+807;150001;_SMCPowerOn_;SMC;Avvio diagnostica SMC;86;0.00;2;2
+807;150008;_Sleeping_;VEHICLE;Stato SLEEPING attivo;86;0.00;2;2
+807;150011;_PantoLowSts_;VEHICLE;Nessun pantografo alto;86;0.00;2;2
+807;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;86;0.00;2;2
+807;150025;_9S13_;VEHICLE;Pressione CP sotto 7.5 bar in M1 (press. 9S13);86;0.00;2;2
+807;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);86;0.00;2;2
+807;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;86;0.00;2;2
+807;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;86;0.00;2;2
+807;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;86;0.00;2;2
+807;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;86;0.00;2;2
+807;ILCK_IP_T2_47;ILCK_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;86;0.00;2;2
+807;ILCK_IP_T7_47;ILCK_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;86;0.00;2;2
+807;ILCK_IRIP_36;ILCK_IRIP_T2_36;MCB;Cod 36. Banco non abilitato;86;0.00;2;2
+807;ILCK_IR_T2_41;ILCK_IR_T2_41;T2_1Q2_IR;Cod 41. Line Voltage Type non 3KV;86;0.00;2;2
+807;ILCK_IR_T7_41;ILCK_IR_T7_41;T2_1Q2_IR;Cod 41. Line Voltage Type non 3KV;86;0.00;2;2
+807;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;86;0.00;2;2
+807;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;86;0.00;2;2
+807;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;86;0.00;2;2
+807;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;86;0.00;2;2
+807;ILCK_Panto_04;ILCK_Panto_04;AT;Cod 04. Banco non abilitato;86;0.00;2;2
+807;43031;_IRV2AuxResOutRngFlt_;BCU_M3;Pressione serbatoio ausiliario fuori limite (carrello 2);86;0.00;2;1
+807;48098;_D_SUSP_LOW1_;BCU_M8;Press. Sospens. fuori range (carrello 1) DOWN;86;0.00;2;1
+807;94015;_10K19Flt0_;PORTE_EST;Indebita eccitazione 10K19 veicolo T4;86;0.00;2;1
+807;98015;_10K19Flt0_;PORTE_EST;Indebita eccitazione 10K19 veicolo M8;86;0.00;2;1
+807;98027;_EDoorEmrgFlt_;PORTE_EST;Incoerenza loop e maniglie emg in M8;86;0.00;2;1
+809;10085;PntLow3;AT;Abbassamento pantogr. comandato da ERTMS;28;8.40;2;2
+809;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;28;8.40;2;2
+809;23476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M3;Apertura forz. contatt. Convert. Princip. DC;28;8.40;2;2
+809;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;28;8.40;2;2
+809;28476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M8;Apertura forz. contatt. Convert. Princip. DC;28;8.40;2;2
+809;150010;_Poc_;VEHICLE;Ingresso in POC;28;8.40;2;2
+809;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;28;8.40;2;2
+809;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;28;8.40;2;2
+809;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;28;8.40;2;2
+809;ILCK_IRIP_T2_09;ILCK_IRIP_T2_09;T2_1Q2_IR;Cod 09. Apertura Interruttore principale da ETCS;28;8.40;2;2
+809;ILCK_IRIP_T2_56;ILCK_IRIP_T2_56;T2_MCB;Cod 56. Apertura da TCU1  locale (M1);28;8.40;2;2
+809;ILCK_IRIP_T2_57;ILCK_IRIP_T2_57;T2_MCB;Cod 57. Apertura da TCU2  locale (M3);28;8.40;2;2
+809;ILCK_IRIP_T2_58;ILCK_IRIP_T2_58;T2_MCB;Cod 58. Apertura da TCU1 remota (M8);28;8.40;2;2
+809;ILCK_IRIP_T2_59;ILCK_IRIP_T2_59;T2_MCB;Cod 59. Apertura da TCU2 remota (M6);28;8.40;2;2
+809;ILCK_IRIP_T7_13;ILCK_IRIP_T7_13;T7_MCB;Cod 13. Apertura IR/IP da TRAIN LINE;28;8.40;2;2
+809;ILCK_IRIP_T7_56;ILCK_IRIP_T7_56;T7_MCB;Cod 56. Apertura da TCU1  locale (M8);28;8.40;2;2
+809;ILCK_IRIP_T7_57;ILCK_IRIP_T7_57;T7_MCB;Cod 57. Apertura da TCU2  locale (M6);28;8.40;2;2
+809;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;28;8.40;2;2
+809;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;28;8.40;2;2
+809;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;28;8.40;2;2
+809;ILCK_PROP_21M1;ILCK_PROP_21M1;MDS;Cod. 21 AT non presente;28;8.40;2;2
+809;ILCK_Panto_T2_12;ILCK_Panto_T2_12;T2_PANTO;Cod 12. Abbassamento Panto richiesto dal segnalamento;28;8.40;2;2
+809;ILCK_Panto_T7_07;ILCK_Panto_T7_07;T7_PANTO;Cod 07. Comando abbassamento panto richiesto da remoto;28;8.40;2;2
+809;21376;NO_LINE_VOLTAGE;CONV_TRAZ_M1;Nessuna tensione di linea;28;8.40;2;1
+809;23376;NO_LINE_VOLTAGE;CONV_TRAZ_M3;Nessuna tensione di linea;28;8.40;2;1
+809;28376;NO_LINE_VOLTAGE;CONV_TRAZ_M8;Nessuna tensione di linea;28;8.40;2;1
+809;ILCK_IR_T2_01;ILCK_IR_T2_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;28;8.40;2;1
+809;ILCK_IR_T7_01;ILCK_IR_T7_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;28;8.40;2;1
+811;150005;_LineVoltType_;VEHICLE;Selezionata tensione 25 kV;13;3.75;2;2
+811;150006;_Running_;VEHICLE;Stato RUNNING attivo;13;3.75;2;2
+811;ILCK_IP_T2_48;ILCK_IP_T2_48;T2_1Q4_IP;Cod 48. Pantografo AC non alto;13;3.75;2;2
+811;ILCK_IP_T2_51;ILCK_IP_T2_51;T2_1Q4_IP;Cod 51. 1Q7 non nello stato di aperto;13;3.75;2;2
+811;ILCK_IP_T2_55;ILCK_IP_T2_55;T2_1Q4_IP;Cod 55. Sezionatore 1Q7  non aperto in AC;13;3.75;2;2
+811;ILCK_IP_T7_48;ILCK_IP_T7_48;T7_1Q4_IP;Cod 48. Pantografo AC non alto;13;3.75;2;2
+811;ILCK_IP_T7_51;ILCK_IP_T7_51;T7_1Q4_IP;Cod 51. 1Q7 non nello stato di aperto;13;3.75;2;2
+811;ILCK_IP_T7_55;ILCK_IP_T7_55;T7_1Q4_IP;Cod 55. Sezionatore 1Q7  non aperto in AC;13;3.75;2;2
+811;ILCK_IR_T2_41;ILCK_IR_T2_41;T2_1Q2_IR;Cod 41. Line Voltage Type non 3KV;13;3.75;2;2
+811;ILCK_IR_T7_41;ILCK_IR_T7_41;T2_1Q2_IR;Cod 41. Line Voltage Type non 3KV;13;3.75;2;2
+811;12215;CCU_1Q7_11;T2_1Q7;Incongruenza contatti 1Q7 in T2 (11);13;3.75;2;1
+811;103036;_IDoorUnblock_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;13;3.75;2;1
+811;103038;_IDoorDCSFlt_;M3_Porta_gangway_2;Guasto microswitch porta Gangway 2;13;3.75;2;1
+830;11201;CCU_FltWtbR2;VEHICLE;Mancata ricezione R2 in CCU M1;41;16.70;2;2
+830;11202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M1;41;16.70;2;2
+830;21376;NO_LINE_VOLTAGE;CONV_TRAZ_M1;Nessuna tensione di linea;41;16.70;2;2
+830;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;41;16.70;2;2
+830;150011;_PantoLowSts_;VEHICLE;Nessun pantografo alto;41;16.70;2;2
+830;150013;_CmdPantoDw_;VEHICLE;Comando abbassamento panto da banco;41;16.70;2;2
+830;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;41;16.70;2;2
+830;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;41;16.70;2;2
+830;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;41;16.70;2;2
+830;ILCK_IRIP_36;ILCK_IRIP_T2_36;MCB;Cod 36. Banco non abilitato;41;16.70;2;2
+830;ILCK_IRIP_T2_56;ILCK_IRIP_T2_56;T2_MCB;Cod 56. Apertura da TCU1  locale (M1);41;16.70;2;2
+830;ILCK_IRIP_T2_60;ILCK_IRIP_T2_60;T2_MCB;"Cod 60. Apertura per linea treno HW Opening TL"" a 1 senza alcuna TCU che alimenta la linea""";41;16.70;2;2
+830;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;41;16.70;2;2
+830;ILCK_IRIP_T7_58;ILCK_IRIP_T7_58;T7_MCB;Cod 58. Apertura da TCU1 remota (M1);41;16.70;2;2
+830;ILCK_IR_T2_01;ILCK_IR_T2_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;41;16.70;2;2
+830;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;41;16.70;2;2
+830;ILCK_IR_T7_01;ILCK_IR_T7_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;41;16.70;2;2
+830;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;41;16.70;2;2
+830;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;41;16.70;2;2
+830;ILCK_PROP_21M8;ILCK_PROP_21M8;MDS;Cod. 21 AT non presente;41;16.70;2;2
+830;ILCK_Panto_04;ILCK_Panto_04;AT;Cod 04. Banco non abilitato;41;16.70;2;2
+830;ILCK_Panto_T2_07;ILCK_Panto_T2_07;T2_PANTO;Cod 07. Comando abbassamento panto richiesto da remoto;41;16.70;2;2
+830;ILCK_Panto_T2_16;ILCK_Panto_T2_16;T2_PANTO;Cod 16. Filo treno di abbassamento Panto Attivo;41;16.70;2;2
+830;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;41;16.70;2;2
+830;ILCK_Panto_T7_08;ILCK_Panto_T7_08;T7_PANTO;Cod 08. Comando abbassamento da selettore Panto;41;16.70;2;2
+830;ILCK_Panto_T7_16;ILCK_Panto_T7_16;T7_PANTO;Cod 16. Filo treno di abbassamento Panto Attivo;41;16.70;2;2
+830;11106;IDUKo;SMC;Mancata ricezione ds 200 da CCU;41;16.70;2;1
+830;21219;_MCQ1SwitchSts_;TCU_M1;Guasto interruttore di isolamento 25 kV (stato);41;16.70;2;1
+830;26376;NO_LINE_VOLTAGE;CONV_TRAZ_M6;Nessuna tensione di linea;41;16.70;2;1
+830;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;41;16.70;2;1
+830;28376;NO_LINE_VOLTAGE;CONV_TRAZ_M8;Nessuna tensione di linea;41;16.70;2;1
+830;28476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M8;Apertura forz. contatt. Convert. Princip. DC;41;16.70;2;1
+830;150018;_CmdOpenIR_;VEHICLE;Comando apertura IR/IP da banco;41;16.70;2;1
+830;ILCK_IRIP_T2_13;ILCK_IRIP_T2_13;T2_MCB;Cod 13. Apertura IR/IP da TRAIN LINE;41;16.70;2;1
+830;ILCK_IRIP_T7_28;ILCK_IRIP_T7_28;T7_MCB;Cod 28. Apertura Interruttore principale richiesto DRIVER da banco Abilitato;41;16.70;2;1
+830;ILCK_IRIP_T7_56;ILCK_IRIP_T7_56;T7_MCB;Cod 56. Apertura da TCU1  locale (M8);41;16.70;2;1
+830;ILCK_IRIP_T7_57;ILCK_IRIP_T7_57;T7_MCB;Cod 57. Apertura da TCU2  locale (M6);41;16.70;2;1
+830;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;41;16.70;2;1
+830;ILCK_IR_T2_42;ILCK_IR_T2_42;T2_1Q2_IR;Cod 42. Pantografo DC non alto;41;16.70;2;1
+830;ILCK_IR_T7_42;ILCK_IR_T7_42;T2_1Q2_IR;Cod 42. Pantografo DC non alto;41;16.70;2;1
+830;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;41;16.70;2;1
+846;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;77;2.10;2;2
+846;11051;_HVACpxNotOK_;HVAC_M1;Perdita di comunicazione con HVAC M1;77;2.10;2;2
+846;12051;_HVACpxNotOK_;HVAC_T2;Perdita di comunicazione con HVAC T2;77;2.10;2;2
+846;13051;_HVACpxNotOK_;HVAC_M3;Perdita di comunicazione con HVAC M3;77;2.10;2;2
+846;14051;_HVACpxNotOK_;HVAC_T4;Perdita di comunicazione con HVAC T4;77;2.10;2;2
+846;15051;_HVACpxNotOK_;HVAC_T5;Perdita di comunicazione con HVAC T5;77;2.10;2;2
+846;16051;_HVACpxNotOK_;HVAC_M6;Perdita di comunicazione con HVAC M6;77;2.10;2;2
+846;17051;_HVACpxNotOK_;HVAC_T7;Perdita di comunicazione con HVAC T7;77;2.10;2;2
+846;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;77;2.10;2;2
+846;18051;_HVACpxNotOK_;HVAC_M8;Perdita di comunicazione con HVAC M8;77;2.10;2;2
+846;27872;_2F47_;T7_2F47;Intervento 2F47 (Toilette) in T7;77;2.10;2;2
+846;41001;_BCUPwrOn_;BCU_M1;Avvio centralina BCU M1;77;2.10;2;2
+846;41031;_IRV2AuxResOutRngFlt_;BCU_M1;Pressione serbatoio ausiliario fuori limite (carrello 2);77;2.10;2;2
+846;41257;_9S06On_;M1_9S06;Dispositivo 9S06 attivo (assistenza EP isolata);77;2.10;2;2
+846;42001;_BCUPwrOn_;BCU_T2;Avvio centralina BCU T2;77;2.10;2;2
+846;42025;_IRV1AuxResOutRngFlt_;BCU_T2;Pressione serbatoio ausiliario fuori limite (carrello 1);77;2.10;2;2
+846;42031;_IRV2AuxResOutRngFlt_;BCU_T2;Pressione serbatoio ausiliario fuori limite (carrello 2);77;2.10;2;2
+846;43001;_BCUPwrOn_;BCU_M3;Avvio centralina BCU M3;77;2.10;2;2
+846;44001;_BCUPwrOn_;BCU_T4;Avvio centralina BCU T4;77;2.10;2;2
+846;45001;_BCUPwrOn_;BCU_T5;Avvio centralina BCU T5;77;2.10;2;2
+846;45025;_IRV1AuxResOutRngFlt_;BCU_T5;Pressione serbatoio ausiliario fuori limite (carrello 1);77;2.10;2;2
+846;45031;_IRV2AuxResOutRngFlt_;BCU_T5;Pressione serbatoio ausiliario fuori limite (carrello 2);77;2.10;2;2
+846;46001;_BCUPwrOn_;BCU_M6;Avvio centralina BCU M6;77;2.10;2;2
+846;47001;_BCUPwrOn_;BCU_T7;Avvio centralina BCU T7;77;2.10;2;2
+846;48001;_BCUPwrOn_;BCU_M8;Avvio centralina BCU M8;77;2.10;2;2
+846;48025;_IRV1AuxResOutRngFlt_;BCU_M8;Pressione serbatoio ausiliario fuori limite (carrello 1);77;2.10;2;2
+846;48031;_IRV2AuxResOutRngFlt_;BCU_M8;Pressione serbatoio ausiliario fuori limite (carrello 2);77;2.10;2;2
+846;81130;_EmVnt_;HVAC_M1;Ventilazione di emergenza attiva;77;2.10;2;2
+846;82079;_SnsrHighprssrB46_;HVAC_T2;Guasto sensore di pressione B46;77;2.10;2;2
+846;82130;_EmVnt_;HVAC_T2;Ventilazione di emergenza attiva;77;2.10;2;2
+846;84130;_EmVnt_;HVAC_T4;Ventilazione di emergenza attiva;77;2.10;2;2
+846;85130;_EmVnt_;HVAC_T5;Ventilazione di emergenza attiva;77;2.10;2;2
+846;86130;_EmVnt_;HVAC_M6;Ventilazione di emergenza attiva;77;2.10;2;2
+846;87130;_EmVnt_;HVAC_T7;Ventilazione di emergenza attiva;77;2.10;2;2
+846;88130;_EmVnt_;HVAC_M8;Ventilazione di emergenza attiva;77;2.10;2;2
+846;132017;_StToiletSys_;TOIL_T2;Toilette fuori servizio veicolo T2;77;2.10;2;2
+846;137017;_StToiletSys_;TOIL_T7;Toilette fuori servizio veicolo T7;77;2.10;2;2
+846;150001;_SMCPowerOn_;SMC;Avvio diagnostica SMC;77;2.10;2;2
+846;150004;_LineVoltType_;VEHICLE;Selezionata tensione 3 kV;77;2.10;2;2
+846;150006;_Running_;VEHICLE;Stato RUNNING attivo;77;2.10;2;2
+846;150025;_9S13_;VEHICLE;Pressione CP sotto 7.5 bar in M1 (press. 9S13);77;2.10;2;2
+846;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);77;2.10;2;2
+846;151014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T2;77;2.10;2;2
+846;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;77;2.10;2;2
+846;152019;_1Q21_;T2_1Q2_IR;IR chiuso in cassa T2;77;2.10;2;2
+846;158002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M8;77;2.10;2;2
+846;158003;_CabOccupied_;M1_4K14;Banco Abilitato M8;77;2.10;2;2
+846;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;77;2.10;2;2
+846;ILCK_IP_T2_47;ILCK_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;77;2.10;2;2
+846;ILCK_IP_T7_47;ILCK_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;77;2.10;2;2
+846;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;77;2.10;2;2
+846;ILCK_PROP_02;ILCK_PROP_02;VEHICLE;Cod. 02 Taglio trazione comandato da RCEC;77;2.10;2;2
+846;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;77;2.10;2;2
+846;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;77;2.10;2;2
+846;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;77;2.10;2;2
+846;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;77;2.10;2;2
+846;ILCK_PROP_17M8;ILCK_PROP_17M8;MDS;Cod. 17 Filo treno Taglio Trazione non alimentato;77;2.10;2;2
+846;ILCK_PROP_20M8;ILCK_PROP_20M8;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);77;2.10;2;2
+846;41025;_IRV1AuxResOutRngFlt_;BCU_M1;Pressione serbatoio ausiliario fuori limite (carrello 1);77;2.10;2;1
+846;43025;_IRV1AuxResOutRngFlt_;BCU_M3;Pressione serbatoio ausiliario fuori limite (carrello 1);77;2.10;2;1
+846;43031;_IRV2AuxResOutRngFlt_;BCU_M3;Pressione serbatoio ausiliario fuori limite (carrello 2);77;2.10;2;1
+846;47025;_IRV1AuxResOutRngFlt_;BCU_T7;Pressione serbatoio ausiliario fuori limite (carrello 1);77;2.10;2;1
+846;47031;_IRV2AuxResOutRngFlt_;BCU_T7;Pressione serbatoio ausiliario fuori limite (carrello 2);77;2.10;2;1
+846;81173;_CabFiltrfrshairsat_;HVAC_CAB_M1;Filtro aria fresca sporco;77;2.10;2;1
+846;82124;_ExhstDmprS82NtOp_;HVAC_T2;Mancata chiusura damper S82;77;2.10;2;1
+846;83130;_EmVnt_;HVAC_M3;Ventilazione di emergenza attiva;77;2.10;2;1
+846;88172;_CabDamperY5S2ntcl_;HVAC_CAB_M8;Mancata chiusura damper Y5_S;77;2.10;2;1
+846;88173;_CabFiltrfrshairsat_;HVAC_CAB_M8;Filtro aria fresca sporco;77;2.10;2;1
+846;103003;_IDoorEmrgCmd_;M3_Porta_comparto_1;Porta interna 1 isolata;77;2.10;2;1
+846;103017;_IDoorEmrgCmd_;M3_Porta_comparto_2;Porta interna 2 isolata;77;2.10;2;1
+846;103019;_IDoorUnblock_;M3_Porta_comparto_2;Guasto microswitch porta interna 2;77;2.10;2;1
+846;103021;_IDoorDCSFlt_;M3_Porta_comparto_2;Guasto microswitch porta interna 2;77;2.10;2;1
+846;108010;_IDoorUnblock_;M8_Porta_comparto_1;Guasto microswitch porta interna 1;77;2.10;2;1
+846;108012;_IDoorDCSFlt_;M8_Porta_comparto_1;Guasto microswitch porta interna 1;77;2.10;2;1
+846;108019;_IDoorUnblock_;M8_Porta_comparto_2;Guasto microswitch porta interna 2;77;2.10;2;1
+846;108021;_IDoorDCSFlt_;M8_Porta_comparto_2;Guasto microswitch porta interna 2;77;2.10;2;1
+846;150012;_CmdPantoUp_;VEHICLE;Comando alzamento panto da banco;77;2.10;2;1
+847;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;74;1.50;2;2
+847;11051;_HVACpxNotOK_;HVAC_M1;Perdita di comunicazione con HVAC M1;74;1.50;2;2
+847;12051;_HVACpxNotOK_;HVAC_T2;Perdita di comunicazione con HVAC T2;74;1.50;2;2
+847;13051;_HVACpxNotOK_;HVAC_M3;Perdita di comunicazione con HVAC M3;74;1.50;2;2
+847;14051;_HVACpxNotOK_;HVAC_T4;Perdita di comunicazione con HVAC T4;74;1.50;2;2
+847;15051;_HVACpxNotOK_;HVAC_T5;Perdita di comunicazione con HVAC T5;74;1.50;2;2
+847;16051;_HVACpxNotOK_;HVAC_M6;Perdita di comunicazione con HVAC M6;74;1.50;2;2
+847;17051;_HVACpxNotOK_;HVAC_T7;Perdita di comunicazione con HVAC T7;74;1.50;2;2
+847;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;74;1.50;2;2
+847;18051;_HVACpxNotOK_;HVAC_M8;Perdita di comunicazione con HVAC M8;74;1.50;2;2
+847;27872;_2F47_;T7_2F47;Intervento 2F47 (Toilette) in T7;74;1.50;2;2
+847;41001;_BCUPwrOn_;BCU_M1;Avvio centralina BCU M1;74;1.50;2;2
+847;41257;_9S06On_;M1_9S06;Dispositivo 9S06 attivo (assistenza EP isolata);74;1.50;2;2
+847;42001;_BCUPwrOn_;BCU_T2;Avvio centralina BCU T2;74;1.50;2;2
+847;42025;_IRV1AuxResOutRngFlt_;BCU_T2;Pressione serbatoio ausiliario fuori limite (carrello 1);74;1.50;2;2
+847;42031;_IRV2AuxResOutRngFlt_;BCU_T2;Pressione serbatoio ausiliario fuori limite (carrello 2);74;1.50;2;2
+847;43001;_BCUPwrOn_;BCU_M3;Avvio centralina BCU M3;74;1.50;2;2
+847;44001;_BCUPwrOn_;BCU_T4;Avvio centralina BCU T4;74;1.50;2;2
+847;45001;_BCUPwrOn_;BCU_T5;Avvio centralina BCU T5;74;1.50;2;2
+847;45025;_IRV1AuxResOutRngFlt_;BCU_T5;Pressione serbatoio ausiliario fuori limite (carrello 1);74;1.50;2;2
+847;45031;_IRV2AuxResOutRngFlt_;BCU_T5;Pressione serbatoio ausiliario fuori limite (carrello 2);74;1.50;2;2
+847;46001;_BCUPwrOn_;BCU_M6;Avvio centralina BCU M6;74;1.50;2;2
+847;47001;_BCUPwrOn_;BCU_T7;Avvio centralina BCU T7;74;1.50;2;2
+847;48001;_BCUPwrOn_;BCU_M8;Avvio centralina BCU M8;74;1.50;2;2
+847;48025;_IRV1AuxResOutRngFlt_;BCU_M8;Pressione serbatoio ausiliario fuori limite (carrello 1);74;1.50;2;2
+847;48031;_IRV2AuxResOutRngFlt_;BCU_M8;Pressione serbatoio ausiliario fuori limite (carrello 2);74;1.50;2;2
+847;48069;_EpEscFlt_;BCU_M8;Assistenza EP fuori servizio;74;1.50;2;2
+847;48257;_9S06On_;M8_9S06;Dispositivo 9S06 attivo (assistenza EP isolata);74;1.50;2;2
+847;82018;_CrctBrkQ51_;HVAC_T2;Interruttore Q51 aperto;74;1.50;2;2
+847;82079;_SnsrHighprssrB46_;HVAC_T2;Guasto sensore di pressione B46;74;1.50;2;2
+847;132017;_StToiletSys_;TOIL_T2;Toilette fuori servizio veicolo T2;74;1.50;2;2
+847;137017;_StToiletSys_;TOIL_T7;Toilette fuori servizio veicolo T7;74;1.50;2;2
+847;150001;_SMCPowerOn_;SMC;Avvio diagnostica SMC;74;1.50;2;2
+847;150004;_LineVoltType_;VEHICLE;Selezionata tensione 3 kV;74;1.50;2;2
+847;150006;_Running_;VEHICLE;Stato RUNNING attivo;74;1.50;2;2
+847;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;74;1.50;2;2
+847;150025;_9S13_;VEHICLE;Pressione CP sotto 7.5 bar in M1 (press. 9S13);74;1.50;2;2
+847;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);74;1.50;2;2
+847;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;74;1.50;2;2
+847;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;74;1.50;2;2
+847;158002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M8;74;1.50;2;2
+847;158003;_CabOccupied_;M1_4K14;Banco Abilitato M8;74;1.50;2;2
+847;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;74;1.50;2;2
+847;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;74;1.50;2;2
+847;ILCK_IP_T2_47;ILCK_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;74;1.50;2;2
+847;ILCK_IP_T7_47;ILCK_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;74;1.50;2;2
+847;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;74;1.50;2;2
+847;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;74;1.50;2;2
+847;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;74;1.50;2;2
+847;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;74;1.50;2;2
+847;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;74;1.50;2;2
+847;ILCK_PROP_17M8;ILCK_PROP_17M8;MDS;Cod. 17 Filo treno Taglio Trazione non alimentato;74;1.50;2;2
+847;ILCK_PROP_20M8;ILCK_PROP_20M8;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);74;1.50;2;2
+847;ILCK_PROP_21M8;ILCK_PROP_21M8;MDS;Cod. 21 AT non presente;74;1.50;2;2
+847;21219;_MCQ1SwitchSts_;TCU_M1;Guasto interruttore di isolamento 25 kV (stato);74;1.50;2;1
+847;22008;_DCPantoFlt_;T2_Panto3kV;Guasto pantografo 3kV in T2;74;1.50;2;1
+847;41025;_IRV1AuxResOutRngFlt_;BCU_M1;Pressione serbatoio ausiliario fuori limite (carrello 1);74;1.50;2;1
+847;41031;_IRV2AuxResOutRngFlt_;BCU_M1;Pressione serbatoio ausiliario fuori limite (carrello 2);74;1.50;2;1
+847;43098;_D_SUSP_LOW1_;BCU_M3;Press. Sospens. fuori range (carrello 1) DOWN;74;1.50;2;1
+847;47025;_IRV1AuxResOutRngFlt_;BCU_T7;Pressione serbatoio ausiliario fuori limite (carrello 1);74;1.50;2;1
+847;84094;_SnsDmprY75_;HVAC_T4;Guasto al sensore del damper Y75;74;1.50;2;1
+847;103034;_IDoorEmrgCmd_;M3_Porta_gangway_2;Porta Gangway 2 isolata;74;1.50;2;1
+847;150011;_PantoLowSts_;VEHICLE;Nessun pantografo alto;74;1.50;2;1
+847;150012;_CmdPantoUp_;VEHICLE;Comando alzamento panto da banco;74;1.50;2;1
+847;151014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T2;74;1.50;2;1
+847;202001;PCU_Flt;EPCU_T2;Avaria PCU panto 3 kV T2;74;1.50;2;1
+847;202010;PCU_reg;EPCU_T2;Errore regolazione pressione di riferimento;74;1.50;2;1
+847;ILCK_IR_T2_01;ILCK_IR_T2_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;74;1.50;2;1
+847;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;74;1.50;2;1
+847;ILCK_IR_T2_42;ILCK_IR_T2_42;T2_1Q2_IR;Cod 42. Pantografo DC non alto;74;1.50;2;1
+847;ILCK_IR_T2_52;ILCK_IR_T2_52;T2_1Q2_IR;Cod 52. Comando apertura DC per guasto Pantografo;74;1.50;2;1
+847;ILCK_IR_T7_01;ILCK_IR_T7_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;74;1.50;2;1
+847;ILCK_PROP_02;ILCK_PROP_02;VEHICLE;Cod. 02 Taglio trazione comandato da RCEC;74;1.50;2;1
+847;ILCK_PantoDC_T2_22;ILCK_PantoDC_T2_22;T2_Panto3kV;Cod 22. Guasto centralina EPCU di controllo Pantografo;74;1.50;2;1
+851;85093;_SnsDmprY70_;HVAC_T5;Guasto al sensore del damper Y70;2;2.10;2;2
+851;85094;_SnsDmprY75_;HVAC_T5;Guasto al sensore del damper Y75;2;2.10;2;2
+853;150012;_CmdPantoUp_;VEHICLE;Comando alzamento panto da banco;2;0.40;2;2
+853;EVT_PantoDC_T2_22;EVT_PantoDC_T2_22;T2_Panto3kV;Cod 22. Guasto centralina EPCU di controllo Pantografo;2;0.40;2;2
+859;ILCK_IR_T2_01;ILCK_IR_T2_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;4;0.70;2;2
+859;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;4;0.70;2;2
+859;ILCK_IR_T7_01;ILCK_IR_T7_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;4;0.70;2;2
+859;26219;_MCQ1SwitchSts_;TCU_M6;Guasto interruttore di isolamento 25 kV (stato);4;0.70;2;1
+864;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;5;6.10;2;2
+864;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;5;6.10;2;2
+864;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;5;6.10;2;2
+864;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;5;6.10;2;2
+864;ILCK_PROP_11M1;ILCK_PROP_11M1;MDS;Cod. 11 Rilascio Porte Destre Attivo;5;6.10;2;2
+876;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;3;3.20;2;2
+876;108028;_IDoorUnblock_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;3;3.20;2;2
+876;108030;_IDoorDCSFlt_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;3;3.20;2;2
+878;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;4;1.90;2;2
+878;26456;MIC_INV_ALRM_RHEO_BLOC_NO_APIR;CONV_TRAZ_M6;Allarme blocco restato;4;1.90;2;2
+878;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;4;1.90;2;2
+878;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;4;1.90;2;2
+880;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;5;4.40;2;2
+880;107028;_IDoorUnblock_;T7_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;4.40;2;2
+880;107030;_IDoorDCSFlt_;T7_Porta_gangway_1;Guasto microswitch porta Gangway 1;5;4.40;2;2
+880;108028;_IDoorUnblock_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;5;4.40;2;2
+880;108030;_IDoorDCSFlt_;M8_Porta_gangway_1;Guasto microswitch porta Gangway;5;4.40;2;2
+885;11201;CCU_FltWtbR2;VEHICLE;Mancata ricezione R2 in CCU M1;12;7.90;2;2
+885;11202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M1;12;7.90;2;2
+885;150007;_Standby_;VEHICLE;Stato STANDBY attivo;12;7.90;2;2
+885;150009;_Parking_;VEHICLE;Stato PARKING attivo;12;7.90;2;2
+885;158014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T7;12;7.90;2;2
+885;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;12;7.90;2;2
+885;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;12;7.90;2;2
+885;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;12;7.90;2;2
+885;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;12;7.90;2;2
+885;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;12;7.90;2;2
+885;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;12;7.90;2;2
+885;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;12;7.90;2;2
+890;93189;_PneuFlt_;M3_Gradino_Porta4;Avaria unita' pneum. gradino porta 4 M3;5;4.60;2;2
+890;104036;_IDoorUnblock_;T4_Porta_gangway_2;Guasto microswitch porta Gangway 2;5;4.60;2;2
+890;104038;_IDoorDCSFlt_;T4_Porta_gangway_2;Guasto microswitch porta Gangway 2;5;4.60;2;2
+890;105036;_IDoorUnblock_;T5_Porta_gangway_2;Guasto microswitch porta Gangway 2;5;4.60;2;2
+890;105038;_IDoorDCSFlt_;T5_Porta_gangway_2;Guasto microswitch porta Gangway 2;5;4.60;2;2
+891;150017;_CmdCloseIR_;VEHICLE;Comando chiusura IR/IP da banco;5;1.90;2;2
+891;157019;_1Q21_;T7_1Q2_IR;IR chiuso in cassa T7;5;1.90;2;2
+891;EVT_IP_T2_47;EVT_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;5;1.90;2;2
+891;EVT_IP_T7_47;EVT_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;5;1.90;2;2
+891;EVT_IR_T2_52;EVT_IR_T2_52;T2_1Q2_IR;Cod 52. Comando apertura DC per guasto Pantografo;5;1.90;2;2
+893;81173;_CabFiltrfrshairsat_;HVAC_CAB_M1;Filtro aria fresca sporco;2;1.00;2;2
+893;88173;_CabFiltrfrshairsat_;HVAC_CAB_M8;Filtro aria fresca sporco;2;1.00;2;2
+894;11200;CCU_FltWtbR1;VEHICLE;Mancata ricezione R1 in CCU M1;16;7.00;2;2
+894;11202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M1;16;7.00;2;2
+894;48069;_EpEscFlt_;BCU_M8;Assistenza EP fuori servizio;16;7.00;2;2
+894;150006;_Running_;VEHICLE;Stato RUNNING attivo;16;7.00;2;2
+894;152019;_1Q21_;T2_1Q2_IR;IR chiuso in cassa T2;16;7.00;2;2
+894;158002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M8;16;7.00;2;2
+894;158003;_CabOccupied_;M1_4K14;Banco Abilitato M8;16;7.00;2;2
+894;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;16;7.00;2;2
+894;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;16;7.00;2;2
+894;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;16;7.00;2;2
+894;ILCK_PROP_11M8;ILCK_PROP_11M8;MDS;Cod. 11 Rilascio Porte Destre Attivo;16;7.00;2;2
+894;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;16;7.00;2;2
+894;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;16;7.00;2;2
+894;ILCK_PROP_18M8;ILCK_PROP_18M8;MDS;Cod. 18 Linea Emergenza Attiva;16;7.00;2;2
+894;ILCK_PROP_20M8;ILCK_PROP_20M8;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);16;7.00;2;2
+894;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;16;7.00;2;2
+895;18200;CCU_FltWtbR1;VEHICLE;Mancata ricezione R1 in CCU M8;16;7.66;2;2
+895;18202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M8;16;7.66;2;2
+895;41069;_EpEscFlt_;BCU_M1;Assistenza EP fuori servizio;16;7.66;2;2
+895;150006;_Running_;VEHICLE;Stato RUNNING attivo;16;7.66;2;2
+895;150007;_Standby_;VEHICLE;Stato STANDBY attivo;16;7.66;2;2
+895;151002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M1;16;7.66;2;2
+895;151003;_CabOccupied_;M1_4K14;Banco Abilitato M1;16;7.66;2;2
+895;157019;_1Q21_;T7_1Q2_IR;IR chiuso in cassa T7;16;7.66;2;2
+895;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;16;7.66;2;2
+895;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;16;7.66;2;2
+895;ILCK_PROP_02;ILCK_PROP_02;VEHICLE;Cod. 02 Taglio trazione comandato da RCEC;16;7.66;2;2
+895;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;16;7.66;2;2
+895;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;16;7.66;2;2
+895;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;16;7.66;2;2
+895;ILCK_PROP_20M1;ILCK_PROP_20M1;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);16;7.66;2;2
+895;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;16;7.66;2;2
+899;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;14;21.70;2;2
+899;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;14;21.70;2;2
+899;48353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M8;14;21.70;2;2
+899;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;14;21.70;2;2
+899;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;14;21.70;2;2
+899;ILCK_PROP_02;ILCK_PROP_02;VEHICLE;Cod. 02 Taglio trazione comandato da RCEC;14;21.70;2;2
+899;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;14;21.70;2;2
+899;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;14;21.70;2;2
+899;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;14;21.70;2;2
+899;ILCK_PROP_11M8;ILCK_PROP_11M8;MDS;Cod. 11 Rilascio Porte Destre Attivo;14;21.70;2;2
+899;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;14;21.70;2;2
+899;ILCK_PROP_18M8;ILCK_PROP_18M8;MDS;Cod. 18 Linea Emergenza Attiva;14;21.70;2;2
+899;ILCK_PROP_20M8;ILCK_PROP_20M8;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);14;21.70;2;2
+899;150025;_9S13_;VEHICLE;Pressione CP sotto 7.5 bar in M1 (press. 9S13);14;21.70;2;1
+900;11200;CCU_FltWtbR1;VEHICLE;Mancata ricezione R1 in CCU M1;16;0.80;2;2
+900;11202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M1;16;0.80;2;2
+900;150006;_Running_;VEHICLE;Stato RUNNING attivo;16;0.80;2;2
+900;158002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M8;16;0.80;2;2
+900;158003;_CabOccupied_;M1_4K14;Banco Abilitato M8;16;0.80;2;2
+900;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;16;0.80;2;2
+900;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;16;0.80;2;2
+900;ILCK_PROP_02;ILCK_PROP_02;VEHICLE;Cod. 02 Taglio trazione comandato da RCEC;16;0.80;2;2
+900;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;16;0.80;2;2
+900;ILCK_PROP_11M8;ILCK_PROP_11M8;MDS;Cod. 11 Rilascio Porte Destre Attivo;16;0.80;2;2
+900;ILCK_PROP_12M8;ILCK_PROP_12M8;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;16;0.80;2;2
+900;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;16;0.80;2;2
+900;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;16;0.80;2;2
+900;ILCK_PROP_20M8;ILCK_PROP_20M8;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);16;0.80;2;2
+900;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;16;0.80;2;2
+900;ILCK_PROP_18M8;ILCK_PROP_18M8;MDS;Cod. 18 Linea Emergenza Attiva;16;0.80;2;1
+901;11201;CCU_FltWtbR2;VEHICLE;Mancata ricezione R2 in CCU M1;14;6.60;2;2
+901;11202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M1;14;6.60;2;2
+901;58001;ScmtOn_CabOff_1;SCMT_M8;Piastra abilitata in M8 con banco M8 disabilitato;14;6.60;2;2
+901;150007;_Standby_;VEHICLE;Stato STANDBY attivo;14;6.60;2;2
+901;158014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T7;14;6.60;2;2
+901;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;14;6.60;2;2
+901;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;14;6.60;2;2
+901;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;14;6.60;2;2
+901;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;14;6.60;2;2
+901;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;14;6.60;2;2
+901;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;14;6.60;2;2
+901;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;14;6.60;2;2
+901;150009;_Parking_;VEHICLE;Stato PARKING attivo;14;6.60;2;1
+901;ILCK_PROP_02;ILCK_PROP_02;VEHICLE;Cod. 02 Taglio trazione comandato da RCEC;14;6.60;2;1
+902;18200;CCU_FltWtbR1;VEHICLE;Mancata ricezione R1 in CCU M8;18;8.40;2;2
+902;18202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M8;18;8.40;2;2
+902;41069;_EpEscFlt_;BCU_M1;Assistenza EP fuori servizio;18;8.40;2;2
+902;150006;_Running_;VEHICLE;Stato RUNNING attivo;18;8.40;2;2
+902;150007;_Standby_;VEHICLE;Stato STANDBY attivo;18;8.40;2;2
+902;151002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M1;18;8.40;2;2
+902;151003;_CabOccupied_;M1_4K14;Banco Abilitato M1;18;8.40;2;2
+902;157019;_1Q21_;T7_1Q2_IR;IR chiuso in cassa T7;18;8.40;2;2
+902;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;18;8.40;2;2
+902;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;18;8.40;2;2
+902;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;18;8.40;2;2
+902;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;18;8.40;2;2
+902;ILCK_PROP_12M1;ILCK_PROP_12M1;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;18;8.40;2;2
+902;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;18;8.40;2;2
+902;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;18;8.40;2;2
+902;ILCK_PROP_20M1;ILCK_PROP_20M1;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);18;8.40;2;2
+902;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;18;8.40;2;2
+902;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;18;8.40;2;1
+903;11200;CCU_FltWtbR1;VEHICLE;Mancata ricezione R1 in CCU M1;16;6.20;2;2
+903;11202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M1;16;6.20;2;2
+903;48069;_EpEscFlt_;BCU_M8;Assistenza EP fuori servizio;16;6.20;2;2
+903;150006;_Running_;VEHICLE;Stato RUNNING attivo;16;6.20;2;2
+903;152019;_1Q21_;T2_1Q2_IR;IR chiuso in cassa T2;16;6.20;2;2
+903;158002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M8;16;6.20;2;2
+903;158003;_CabOccupied_;M1_4K14;Banco Abilitato M8;16;6.20;2;2
+903;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;16;6.20;2;2
+903;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;16;6.20;2;2
+903;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;16;6.20;2;2
+903;ILCK_PROP_12M8;ILCK_PROP_12M8;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;16;6.20;2;2
+903;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;16;6.20;2;2
+903;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;16;6.20;2;2
+903;ILCK_PROP_20M8;ILCK_PROP_20M8;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);16;6.20;2;2
+903;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;16;6.20;2;2
+903;ILCK_PROP_11M8;ILCK_PROP_11M8;MDS;Cod. 11 Rilascio Porte Destre Attivo;16;6.20;2;1
+904;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;11;3.39;2;2
+904;23476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M3;Apertura forz. contatt. Convert. Princip. DC;11;3.39;2;2
+904;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;11;3.39;2;2
+904;28476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M8;Apertura forz. contatt. Convert. Princip. DC;11;3.39;2;2
+904;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;11;3.39;2;2
+904;150018;_CmdOpenIR_;VEHICLE;Comando apertura IR/IP da banco;11;3.39;2;2
+904;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;11;3.39;2;2
+904;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;11;3.39;2;2
+904;ILCK_IRIP_T7_28;ILCK_IRIP_T7_28;T7_MCB;Cod 28. Apertura Interruttore principale richiesto DRIVER da banco Abilitato;11;3.39;2;2
+904;ILCK_PROP_21M8;ILCK_PROP_21M8;MDS;Cod. 21 AT non presente;11;3.39;2;2
+904;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;11;3.39;2;1
+906;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;11;3.16;2;2
+906;23476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M3;Apertura forz. contatt. Convert. Princip. DC;11;3.16;2;2
+906;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;11;3.16;2;2
+906;28476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M8;Apertura forz. contatt. Convert. Princip. DC;11;3.16;2;2
+906;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;11;3.16;2;2
+906;150018;_CmdOpenIR_;VEHICLE;Comando apertura IR/IP da banco;11;3.16;2;2
+906;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;11;3.16;2;2
+906;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;11;3.16;2;2
+906;ILCK_IRIP_T2_28;ILCK_IRIP_T2_28;T2_MCB;Cod 28. Apertura Interruttore principale richiesto DRIVER da banco Abilitato;11;3.16;2;2
+906;ILCK_PROP_21M1;ILCK_PROP_21M1;MDS;Cod. 21 AT non presente;11;3.16;2;2
+906;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;11;3.16;2;1
+907;18200;CCU_FltWtbR1;VEHICLE;Mancata ricezione R1 in CCU M8;15;2.70;2;2
+907;18202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M8;15;2.70;2;2
+907;150006;_Running_;VEHICLE;Stato RUNNING attivo;15;2.70;2;2
+907;150007;_Standby_;VEHICLE;Stato STANDBY attivo;15;2.70;2;2
+907;151002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M1;15;2.70;2;2
+907;151003;_CabOccupied_;M1_4K14;Banco Abilitato M1;15;2.70;2;2
+907;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;15;2.70;2;2
+907;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;15;2.70;2;2
+907;ILCK_PROP_10;ILCK_PROP_10;VEHICLE;Cod. 10 Nessuna velocita' impostata;15;2.70;2;2
+907;ILCK_PROP_11M1;ILCK_PROP_11M1;MDS;Cod. 11 Rilascio Porte Destre Attivo;15;2.70;2;2
+907;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;15;2.70;2;2
+907;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;15;2.70;2;2
+907;ILCK_PROP_20M1;ILCK_PROP_20M1;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);15;2.70;2;2
+907;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;15;2.70;2;2
+907;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;15;2.70;2;1
+909;150013;_CmdPantoDw_;VEHICLE;Comando abbassamento panto da banco;15;22.64;2;2
+909;150018;_CmdOpenIR_;VEHICLE;Comando apertura IR/IP da banco;15;22.64;2;2
+909;150027;_CmdTCUFailReset_;VEHICLE;Comando riconfigurazione e reset da banco;15;22.64;2;2
+909;207001;PCU_Flt;EPCU_T7;Avaria PCU panto 3 kV T7;15;22.64;2;2
+909;207022;PCU_Flt_incoer;EPCU_T7;Mancata segnalazione filata avaria PCU T2;15;22.64;2;2
+909;207023;PCU_Flt_incoer2;EPCU_T7;Mancata segnalazione filata avaria PCU T2;15;22.64;2;2
+909;207024;CCU_PCU_MVBKo;EPCU_T7;CCU: Mancata comunicazione MVB con la PCU T7;15;22.64;2;2
+909;ILCK_IRIP_T2_28;ILCK_IRIP_T2_28;T2_MCB;Cod 28. Apertura Interruttore principale richiesto DRIVER da banco Abilitato;15;22.64;2;2
+909;ILCK_IR_T7_52;ILCK_IR_T7_52;T2_1Q2_IR;Cod 52. Comando apertura DC per guasto Pantografo;15;22.64;2;2
+909;ILCK_PantoDC_T7_22;ILCK_PantoDC_T7_22;T7_Panto3kV;Cod 22. Guasto centralina EPCU di controllo Pantografo;15;22.64;2;2
+909;ILCK_Panto_T2_08;ILCK_Panto_T2_08;T2_PANTO;Cod 08. Comando abbassamento da selettore Panto;15;22.64;2;2
+909;ILCK_Panto_T2_16;ILCK_Panto_T2_16;T2_PANTO;Cod 16. Filo treno di abbassamento Panto Attivo;15;22.64;2;2
+909;ILCK_Panto_T7_16;ILCK_Panto_T7_16;T7_PANTO;Cod 16. Filo treno di abbassamento Panto Attivo;15;22.64;2;2
+909;150012;_CmdPantoUp_;VEHICLE;Comando alzamento panto da banco;15;22.64;2;1
+909;EVT_PantoDC_T7_22;EVT_PantoDC_T7_22;T7_Panto3kV;Cod 22. Guasto centralina EPCU di controllo Pantografo;15;22.64;2;1
+910;81130;_EmVnt_;HVAC_M1;Ventilazione di emergenza attiva;8;1.51;2;2
+910;82130;_EmVnt_;HVAC_T2;Ventilazione di emergenza attiva;8;1.51;2;2
+910;83130;_EmVnt_;HVAC_M3;Ventilazione di emergenza attiva;8;1.51;2;2
+910;84130;_EmVnt_;HVAC_T4;Ventilazione di emergenza attiva;8;1.51;2;2
+910;85130;_EmVnt_;HVAC_T5;Ventilazione di emergenza attiva;8;1.51;2;2
+910;86130;_EmVnt_;HVAC_M6;Ventilazione di emergenza attiva;8;1.51;2;2
+910;87130;_EmVnt_;HVAC_T7;Ventilazione di emergenza attiva;8;1.51;2;2
+910;88130;_EmVnt_;HVAC_M8;Ventilazione di emergenza attiva;8;1.51;2;2
+912;11200;CCU_FltWtbR1;VEHICLE;Mancata ricezione R1 in CCU M1;22;3.60;2;2
+912;11202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M1;22;3.60;2;2
+912;48069;_EpEscFlt_;BCU_M8;Assistenza EP fuori servizio;22;3.60;2;2
+912;48352;6S01_Emg;FRENO;Frenatura di emergenza attivata da leva di trazione in M8;22;3.60;2;2
+912;150006;_Running_;VEHICLE;Stato RUNNING attivo;22;3.60;2;2
+912;158002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M8;22;3.60;2;2
+912;158003;_CabOccupied_;M1_4K14;Banco Abilitato M8;22;3.60;2;2
+912;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;22;3.60;2;2
+912;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;22;3.60;2;2
+912;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;22;3.60;2;2
+912;ILCK_PROP_10;ILCK_PROP_10;VEHICLE;Cod. 10 Nessuna velocita' impostata;22;3.60;2;2
+912;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;22;3.60;2;2
+912;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;22;3.60;2;2
+912;ILCK_PROP_18M8;ILCK_PROP_18M8;MDS;Cod. 18 Linea Emergenza Attiva;22;3.60;2;2
+912;ILCK_PROP_19M8;ILCK_PROP_19M8;MDS;Cod. 19 Maniglia Allarme Passeggeri Attivata;22;3.60;2;2
+912;ILCK_PROP_20M8;ILCK_PROP_20M8;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);22;3.60;2;2
+912;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;22;3.60;2;2
+912;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;22;3.60;2;2
+912;41250;_BrakeStsTLOpModeFlt_;FRENO;Frenatura pneumatica attiva in modalita' diversa da RUNNING;22;3.60;2;1
+912;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;22;3.60;2;1
+912;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;22;3.60;2;1
+912;ILCK_PROP_12M8;ILCK_PROP_12M8;MDS;Cod. 12 Rilascio Porte Sinistre Attivo;22;3.60;2;1
+913;10085;PntLow3;AT;Abbassamento pantogr. comandato da ERTMS;36;14.39;2;2
+913;21376;NO_LINE_VOLTAGE;CONV_TRAZ_M1;Nessuna tensione di linea;36;14.39;2;2
+913;21481;OPIR_OPQ1;Q1_M1;Apertura forzata IP-IR per apertura Q1;36;14.39;2;2
+913;23376;NO_LINE_VOLTAGE;CONV_TRAZ_M3;Nessuna tensione di linea;36;14.39;2;2
+913;23481;OPIR_OPQ1;Q1_M3;Apertura forzata IP-IR per apertura Q1;36;14.39;2;2
+913;26376;NO_LINE_VOLTAGE;CONV_TRAZ_M6;Nessuna tensione di linea;36;14.39;2;2
+913;26481;OPIR_OPQ1;Q1_M6;Apertura forzata IP-IR per apertura Q1;36;14.39;2;2
+913;28376;NO_LINE_VOLTAGE;CONV_TRAZ_M8;Nessuna tensione di linea;36;14.39;2;2
+913;28481;OPIR_OPQ1;Q1_M8;Apertura forzata IP-IR per apertura Q1;36;14.39;2;2
+913;150004;_LineVoltType_;VEHICLE;Selezionata tensione 3 kV;36;14.39;2;2
+913;150010;_Poc_;VEHICLE;Ingresso in POC;36;14.39;2;2
+913;150011;_PantoLowSts_;VEHICLE;Nessun pantografo alto;36;14.39;2;2
+913;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;36;14.39;2;2
+913;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;36;14.39;2;2
+913;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;36;14.39;2;2
+913;ILCK_IP_T2_47;ILCK_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;36;14.39;2;2
+913;ILCK_IP_T7_47;ILCK_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;36;14.39;2;2
+913;ILCK_IP_T7_50;ILCK_IP_T7_50;T7_1Q4_IP;Cod 50. Assenza tensione 25KV;36;14.39;2;2
+913;ILCK_IRIP_T2_03;ILCK_IRIP_T2_03;T2_MCB;Cod 03. Apertura Interruttore principale richiesto da TCU1 M1;36;14.39;2;2
+913;ILCK_IRIP_T2_09;ILCK_IRIP_T2_09;T2_1Q2_IR;Cod 09. Apertura Interruttore principale da ETCS;36;14.39;2;2
+913;ILCK_IRIP_T2_39;ILCK_IRIP_T2_39;T2_MCB;Cod 39. Master Controller non in IDLE;36;14.39;2;2
+913;ILCK_IRIP_T2_56;ILCK_IRIP_T2_56;T2_MCB;Cod 56. Apertura da TCU1  locale (M1);36;14.39;2;2
+913;ILCK_IRIP_T2_57;ILCK_IRIP_T2_57;T2_MCB;Cod 57. Apertura da TCU2  locale (M3);36;14.39;2;2
+913;ILCK_IRIP_T2_58;ILCK_IRIP_T2_58;T2_MCB;Cod 58. Apertura da TCU1 remota (M8);36;14.39;2;2
+913;ILCK_IRIP_T2_59;ILCK_IRIP_T2_59;T2_MCB;Cod 59. Apertura da TCU2 remota (M6);36;14.39;2;2
+913;ILCK_IRIP_T7_03;ILCK_IRIP_T7_03;T7_MCB;Cod 03. Apertura Interruttore principale richiesto da TCU1 M8;36;14.39;2;2
+913;ILCK_IRIP_T7_56;ILCK_IRIP_T7_56;T7_MCB;Cod 56. Apertura da TCU1  locale (M8);36;14.39;2;2
+913;ILCK_IRIP_T7_57;ILCK_IRIP_T7_57;T7_MCB;Cod 57. Apertura da TCU2  locale (M6);36;14.39;2;2
+913;ILCK_IR_T2_42;ILCK_IR_T2_42;T2_1Q2_IR;Cod 42. Pantografo DC non alto;36;14.39;2;2
+913;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;36;14.39;2;2
+913;ILCK_PROP_21M1;ILCK_PROP_21M1;MDS;Cod. 21 AT non presente;36;14.39;2;2
+913;ILCK_Panto_T2_12;ILCK_Panto_T2_12;T2_PANTO;Cod 12. Abbassamento Panto richiesto dal segnalamento;36;14.39;2;2
+913;ILCK_Panto_T7_07;ILCK_Panto_T7_07;T7_PANTO;Cod 07. Comando abbassamento panto richiesto da remoto;36;14.39;2;2
+913;12215;CCU_1Q7_11;T2_1Q7;Incongruenza contatti 1Q7 in T2 (11);36;14.39;2;1
+913;26219;_MCQ1SwitchSts_;TCU_M6;Guasto interruttore di isolamento 25 kV (stato);36;14.39;2;1
+913;150006;_Running_;VEHICLE;Stato RUNNING attivo;36;14.39;2;1
+914;10085;PntLow3;AT;Abbassamento pantogr. comandato da ERTMS;21;4.30;2;2
+914;150010;_Poc_;VEHICLE;Ingresso in POC;21;4.30;2;2
+914;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;21;4.30;2;2
+914;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;21;4.30;2;2
+914;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;21;4.30;2;2
+914;ILCK_IP_T2_50;ILCK_IP_T2_50;T2_1Q4_IP;Cod 50. Assenza tensione 25KV;21;4.30;2;2
+914;ILCK_IRIP_T2_57;ILCK_IRIP_T2_57;T2_MCB;Cod 57. Apertura da TCU2  locale (M3);21;4.30;2;2
+914;ILCK_IRIP_T7_03;ILCK_IRIP_T7_03;T7_MCB;Cod 03. Apertura Interruttore principale richiesto da TCU1 M8;21;4.30;2;2
+914;ILCK_IRIP_T7_09;ILCK_IRIP_T7_09;T2_1Q2_IR;Cod 09. Apertura Interruttore principale da ETCS;21;4.30;2;2
+914;ILCK_IRIP_T7_39;ILCK_IRIP_T7_39;T7_MCB;Cod 39. Master Controller non in IDLE;21;4.30;2;2
+914;ILCK_IRIP_T7_56;ILCK_IRIP_T7_56;T7_MCB;Cod 56. Apertura da TCU1  locale (M8);21;4.30;2;2
+914;ILCK_IRIP_T7_57;ILCK_IRIP_T7_57;T7_MCB;Cod 57. Apertura da TCU2  locale (M6);21;4.30;2;2
+914;ILCK_IRIP_T7_58;ILCK_IRIP_T7_58;T7_MCB;Cod 58. Apertura da TCU1 remota (M1);21;4.30;2;2
+914;ILCK_IRIP_T7_59;ILCK_IRIP_T7_59;T7_MCB;Cod 59. Apertura da TCU2 remota (M3);21;4.30;2;2
+914;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;21;4.30;2;2
+914;ILCK_PROP_21M8;ILCK_PROP_21M8;MDS;Cod. 21 AT non presente;21;4.30;2;2
+914;ILCK_Panto_T2_07;ILCK_Panto_T2_07;T2_PANTO;Cod 07. Comando abbassamento panto richiesto da remoto;21;4.30;2;2
+914;ILCK_Panto_T7_12;ILCK_Panto_T7_12;T7_PANTO;Cod 12. Abbassamento Panto richiesto dal segnalamento;21;4.30;2;2
+914;26481;OPIR_OPQ1;Q1_M6;Apertura forzata IP-IR per apertura Q1;21;4.30;2;1
+914;ILCK_IRIP_T2_03;ILCK_IRIP_T2_03;T2_MCB;Cod 03. Apertura Interruttore principale richiesto da TCU1 M1;21;4.30;2;1
+914;ILCK_IRIP_T2_56;ILCK_IRIP_T2_56;T2_MCB;Cod 56. Apertura da TCU1  locale (M1);21;4.30;2;1
+915;10085;PntLow3;AT;Abbassamento pantogr. comandato da ERTMS;41;13.72;2;2
+915;21376;NO_LINE_VOLTAGE;CONV_TRAZ_M1;Nessuna tensione di linea;41;13.72;2;2
+915;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;41;13.72;2;2
+915;23376;NO_LINE_VOLTAGE;CONV_TRAZ_M3;Nessuna tensione di linea;41;13.72;2;2
+915;23476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M3;Apertura forz. contatt. Convert. Princip. DC;41;13.72;2;2
+915;26376;NO_LINE_VOLTAGE;CONV_TRAZ_M6;Nessuna tensione di linea;41;13.72;2;2
+915;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;41;13.72;2;2
+915;28376;NO_LINE_VOLTAGE;CONV_TRAZ_M8;Nessuna tensione di linea;41;13.72;2;2
+915;28476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M8;Apertura forz. contatt. Convert. Princip. DC;41;13.72;2;2
+915;150005;_LineVoltType_;VEHICLE;Selezionata tensione 25 kV;41;13.72;2;2
+915;150010;_Poc_;VEHICLE;Ingresso in POC;41;13.72;2;2
+915;150011;_PantoLowSts_;VEHICLE;Nessun pantografo alto;41;13.72;2;2
+915;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;41;13.72;2;2
+915;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;41;13.72;2;2
+915;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;41;13.72;2;2
+915;ILCK_IP_T2_51;ILCK_IP_T2_51;T2_1Q4_IP;Cod 51. 1Q7 non nello stato di aperto;41;13.72;2;2
+915;ILCK_IP_T2_55;ILCK_IP_T2_55;T2_1Q4_IP;Cod 55. Sezionatore 1Q7  non aperto in AC;41;13.72;2;2
+915;ILCK_IP_T7_51;ILCK_IP_T7_51;T7_1Q4_IP;Cod 51. 1Q7 non nello stato di aperto;41;13.72;2;2
+915;ILCK_IRIP_T2_09;ILCK_IRIP_T2_09;T2_1Q2_IR;Cod 09. Apertura Interruttore principale da ETCS;41;13.72;2;2
+915;ILCK_IRIP_T2_56;ILCK_IRIP_T2_56;T2_MCB;Cod 56. Apertura da TCU1  locale (M1);41;13.72;2;2
+915;ILCK_IRIP_T2_57;ILCK_IRIP_T2_57;T2_MCB;Cod 57. Apertura da TCU2  locale (M3);41;13.72;2;2
+915;ILCK_IRIP_T2_58;ILCK_IRIP_T2_58;T2_MCB;Cod 58. Apertura da TCU1 remota (M8);41;13.72;2;2
+915;ILCK_IRIP_T2_59;ILCK_IRIP_T2_59;T2_MCB;Cod 59. Apertura da TCU2 remota (M6);41;13.72;2;2
+915;ILCK_IRIP_T7_13;ILCK_IRIP_T7_13;T7_MCB;Cod 13. Apertura IR/IP da TRAIN LINE;41;13.72;2;2
+915;ILCK_IRIP_T7_56;ILCK_IRIP_T7_56;T7_MCB;Cod 56. Apertura da TCU1  locale (M8);41;13.72;2;2
+915;ILCK_IRIP_T7_57;ILCK_IRIP_T7_57;T7_MCB;Cod 57. Apertura da TCU2  locale (M6);41;13.72;2;2
+915;ILCK_IR_T2_01;ILCK_IR_T2_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;41;13.72;2;2
+915;ILCK_IR_T2_41;ILCK_IR_T2_41;T2_1Q2_IR;Cod 41. Line Voltage Type non 3KV;41;13.72;2;2
+915;ILCK_IR_T7_01;ILCK_IR_T7_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;41;13.72;2;2
+915;ILCK_IR_T7_40;ILCK_IR_T7_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;41;13.72;2;2
+915;ILCK_IR_T7_41;ILCK_IR_T7_41;T2_1Q2_IR;Cod 41. Line Voltage Type non 3KV;41;13.72;2;2
+915;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;41;13.72;2;2
+915;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;41;13.72;2;2
+915;ILCK_PROP_21M1;ILCK_PROP_21M1;MDS;Cod. 21 AT non presente;41;13.72;2;2
+915;ILCK_Panto_T2_12;ILCK_Panto_T2_12;T2_PANTO;Cod 12. Abbassamento Panto richiesto dal segnalamento;41;13.72;2;2
+915;ILCK_Panto_T7_07;ILCK_Panto_T7_07;T7_PANTO;Cod 07. Comando abbassamento panto richiesto da remoto;41;13.72;2;2
+915;21219;_MCQ1SwitchSts_;TCU_M1;Guasto interruttore di isolamento 25 kV (stato);41;13.72;2;1
+915;23219;_MCQ1SwitchSts_;TCU_M3;Guasto interruttore di isolamento 25 kV (stato);41;13.72;2;1
+915;ILCK_IP_T7_55;ILCK_IP_T7_55;T7_1Q4_IP;Cod 55. Sezionatore 1Q7  non aperto in AC;41;13.72;2;1
+915;ILCK_IRIP_T2_60;ILCK_IRIP_T2_60;T2_MCB;"Cod 60. Apertura per linea treno HW Opening TL"" a 1 senza alcuna TCU che alimenta la linea""";41;13.72;2;1
+915;ILCK_IR_T2_42;ILCK_IR_T2_42;T2_1Q2_IR;Cod 42. Pantografo DC non alto;41;13.72;2;1
+916;18201;CCU_FltWtbR2;VEHICLE;Mancata ricezione R2 in CCU M8;26;24.00;2;2
+916;18202;CCU_FltWtbComm;VEHICLE;Mancata comunicazione WTB in CCU M8;26;24.00;2;2
+916;23476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M3;Apertura forz. contatt. Convert. Princip. DC;26;24.00;2;2
+916;28476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M8;Apertura forz. contatt. Convert. Princip. DC;26;24.00;2;2
+916;41353;9K48_Emg;FRENO;Frenatura di emergenza attivata da leva di frenatura in M1;26;24.00;2;2
+916;51001;ScmtOn_CabOff_1;SCMT_M1;Piastra abilitata in M1 con banco M1 disabilitato;26;24.00;2;2
+916;150007;_Standby_;VEHICLE;Stato STANDBY attivo;26;24.00;2;2
+916;151014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T2;26;24.00;2;2
+916;ILCK_IRIP_T2_68;ILCK_IRIP_T2_68;T2_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;26;24.00;2;2
+916;ILCK_IRIP_T7_68;ILCK_IRIP_T7_68;T7_MCB;Cod 68. Mancata comunic. WTB con semitreno remoto;26;24.00;2;2
+916;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;26;24.00;2;2
+916;ILCK_PROP_03;ILCK_PROP_03;VEHICLE;Cod. 03 Comando di frenatura da manipolatore attivo;26;24.00;2;2
+916;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;26;24.00;2;2
+916;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;26;24.00;2;2
+916;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;26;24.00;2;2
+916;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;26;24.00;2;2
+916;ILCK_PROP_18M1;ILCK_PROP_18M1;MDS;Cod. 18 Linea Emergenza Attiva;26;24.00;2;2
+916;ILCK_Panto_T2_45;ILCK_Panto_T2_45;T2_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;26;24.00;2;2
+916;ILCK_Panto_T7_45;ILCK_Panto_T7_45;T7_PANTO;Cod 45. Mancata comunic. WTB con semitreno remoto;26;24.00;2;2
+916;150009;_Parking_;VEHICLE;Stato PARKING attivo;26;24.00;2;1
+916;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;26;24.00;2;1
+916;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;26;24.00;2;1
+916;ILCK_PROP_02;ILCK_PROP_02;VEHICLE;Cod. 02 Taglio trazione comandato da RCEC;26;24.00;2;1
+916;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;26;24.00;2;1
+916;ILCK_PROP_11M1;ILCK_PROP_11M1;MDS;Cod. 11 Rilascio Porte Destre Attivo;26;24.00;2;1
+916;ILCK_PROP_20M1;ILCK_PROP_20M1;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);26;24.00;2;1
+917;21192;_tcu1OK_;TCU_M1;Auto esclusione convertitore M1;78;0.00;2;2
+917;21226;_TCUCmdApir_;TCU_M1;Comando apertura IR da TCU1 attivo;78;0.00;2;2
+917;23192;_tcu2OK_;TCU_M3;Auto esclusione convertitore M3;78;0.00;2;2
+917;23226;_TCUCmdApir_;TCU_M3;Comando apertura IR da TCU2 attivo;78;0.00;2;2
+917;26192;_tcu2OK_;TCU_M6;Auto esclusione convertitore M6;78;0.00;2;2
+917;26226;_TCUCmdApir_;TCU_M6;Comando apertura IR da TCU3 attivo;78;0.00;2;2
+917;27872;_2F47_;T7_2F47;Intervento 2F47 (Toilette) in T7;78;0.00;2;2
+917;28192;_tcu1OK_;TCU_M8;Auto esclusione convertitore M8;78;0.00;2;2
+917;28226;_TCUCmdApir_;TCU_M8;Comando apertura IR da TCU4 attivo;78;0.00;2;2
+917;41001;_BCUPwrOn_;BCU_M1;Avvio centralina BCU M1;78;0.00;2;2
+917;41257;_9S06On_;M1_9S06;Dispositivo 9S06 attivo (assistenza EP isolata);78;0.00;2;2
+917;42001;_BCUPwrOn_;BCU_T2;Avvio centralina BCU T2;78;0.00;2;2
+917;43001;_BCUPwrOn_;BCU_M3;Avvio centralina BCU M3;78;0.00;2;2
+917;44001;_BCUPwrOn_;BCU_T4;Avvio centralina BCU T4;78;0.00;2;2
+917;45001;_BCUPwrOn_;BCU_T5;Avvio centralina BCU T5;78;0.00;2;2
+917;46001;_BCUPwrOn_;BCU_M6;Avvio centralina BCU M6;78;0.00;2;2
+917;47001;_BCUPwrOn_;BCU_T7;Avvio centralina BCU T7;78;0.00;2;2
+917;48001;_BCUPwrOn_;BCU_M8;Avvio centralina BCU M8;78;0.00;2;2
+917;82079;_SnsrHighprssrB46_;HVAC_T2;Guasto sensore di pressione B46;78;0.00;2;2
+917;82124;_ExhstDmprS82NtOp_;HVAC_T2;Mancata chiusura damper S82;78;0.00;2;2
+917;91150;_EDCU_LwSpdFlt_;EDCU_M1_1;Incorenza sts velocita' 0 porta 1 M1;78;0.00;2;2
+917;91151;_EDCU_LwSpdFlt_;EDCU_M1_2;Incorenza sts velocita' 0 porta 2 M1;78;0.00;2;2
+917;92015;_10K19Flt0_;PORTE_EST;Indebita eccitazione 10K19 veicolo T2;78;0.00;2;2
+917;92150;_EDCU_LwSpdFlt_;EDCU_T2_1;Incorenza sts velocita' 0 porta 1 T2;78;0.00;2;2
+917;92151;_EDCU_LwSpdFlt_;EDCU_T2_2;Incorenza sts velocita' 0 porta 2 T2;78;0.00;2;2
+917;92152;_EDCU_LwSpdFlt_;EDCU_T2_3;Incorenza sts velocita' 0 porta 3 T2;78;0.00;2;2
+917;92153;_EDCU_LwSpdFlt_;EDCU_T2_4;Incorenza sts velocita' 0 porta 4 T2;78;0.00;2;2
+917;93015;_10K19Flt0_;PORTE_EST;Indebita eccitazione 10K19 veicolo M3;78;0.00;2;2
+917;93150;_EDCU_LwSpdFlt_;EDCU_M3_1;Incorenza sts velocita' 0 porta 1 M3;78;0.00;2;2
+917;93151;_EDCU_LwSpdFlt_;EDCU_M3_2;Incorenza sts velocita' 0 porta 2 M3;78;0.00;2;2
+917;93152;_EDCU_LwSpdFlt_;EDCU_M3_3;Incorenza sts velocita' 0 porta 3 M3;78;0.00;2;2
+917;93153;_EDCU_LwSpdFlt_;EDCU_M3_4;Incorenza sts velocita' 0 porta 4 M3;78;0.00;2;2
+917;94015;_10K19Flt0_;PORTE_EST;Indebita eccitazione 10K19 veicolo T4;78;0.00;2;2
+917;94150;_EDCU_LwSpdFlt_;EDCU_T4_1;Incorenza sts velocita' 0 porta 1 T4;78;0.00;2;2
+917;94151;_EDCU_LwSpdFlt_;EDCU_T4_2;Incorenza sts velocita' 0 porta 2 T4;78;0.00;2;2
+917;95015;_10K19Flt0_;PORTE_EST;Indebita eccitazione 10K19 veicolo T5;78;0.00;2;2
+917;95150;_EDCU_LwSpdFlt_;EDCU_T5_1;Incorenza sts velocita' 0 porta 1 T5;78;0.00;2;2
+917;95151;_EDCU_LwSpdFlt_;EDCU_T5_2;Incorenza sts velocita' 0 porta 2 T5;78;0.00;2;2
+917;96015;_10K19Flt0_;PORTE_EST;Indebita eccitazione 10K19 veicolo M6;78;0.00;2;2
+917;96150;_EDCU_LwSpdFlt_;EDCU_M6_1;Incorenza sts velocita' 0 porta 1 M6;78;0.00;2;2
+917;96151;_EDCU_LwSpdFlt_;EDCU_M6_2;Incorenza sts velocita' 0 porta 2 M6;78;0.00;2;2
+917;96152;_EDCU_LwSpdFlt_;EDCU_M6_3;Incorenza sts velocita' 0 porta 3 M6;78;0.00;2;2
+917;96153;_EDCU_LwSpdFlt_;EDCU_M6_4;Incorenza sts velocita' 0 porta 4 M6;78;0.00;2;2
+917;97015;_10K19Flt0_;PORTE_EST;Indebita eccitazione 10K19 veicolo T7;78;0.00;2;2
+917;97150;_EDCU_LwSpdFlt_;EDCU_T7_1;Incorenza sts velocita' 0 porta 1 T7;78;0.00;2;2
+917;97151;_EDCU_LwSpdFlt_;EDCU_T7_2;Incorenza sts velocita' 0 porta 2 T7;78;0.00;2;2
+917;97152;_EDCU_LwSpdFlt_;EDCU_T7_3;Incorenza sts velocita' 0 porta 3 T7;78;0.00;2;2
+917;97153;_EDCU_LwSpdFlt_;EDCU_T7_4;Incorenza sts velocita' 0 porta 4 T7;78;0.00;2;2
+917;98150;_EDCU_LwSpdFlt_;EDCU_M8_1;Incorenza sts velocita' 0 porta 1 M8;78;0.00;2;2
+917;98151;_EDCU_LwSpdFlt_;EDCU_M8_2;Incorenza sts velocita' 0 porta 2 M8;78;0.00;2;2
+917;132017;_StToiletSys_;TOIL_T2;Toilette fuori servizio veicolo T2;78;0.00;2;2
+917;137017;_StToiletSys_;TOIL_T7;Toilette fuori servizio veicolo T7;78;0.00;2;2
+917;150001;_SMCPowerOn_;SMC;Avvio diagnostica SMC;78;0.00;2;2
+917;150008;_Sleeping_;VEHICLE;Stato SLEEPING attivo;78;0.00;2;2
+917;150011;_PantoLowSts_;VEHICLE;Nessun pantografo alto;78;0.00;2;2
+917;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;78;0.00;2;2
+917;150025;_9S13_;VEHICLE;Pressione CP sotto 7.5 bar in M1 (press. 9S13);78;0.00;2;2
+917;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);78;0.00;2;2
+917;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;78;0.00;2;2
+917;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;78;0.00;2;2
+917;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;78;0.00;2;2
+917;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;78;0.00;2;2
+917;ILCK_IP_T2_47;ILCK_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;78;0.00;2;2
+917;ILCK_IP_T7_47;ILCK_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;78;0.00;2;2
+917;ILCK_IRIP_36;ILCK_IRIP_T2_36;MCB;Cod 36. Banco non abilitato;78;0.00;2;2
+917;ILCK_IR_T2_41;ILCK_IR_T2_41;T2_1Q2_IR;Cod 41. Line Voltage Type non 3KV;78;0.00;2;2
+917;ILCK_IR_T7_41;ILCK_IR_T7_41;T2_1Q2_IR;Cod 41. Line Voltage Type non 3KV;78;0.00;2;2
+917;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;78;0.00;2;2
+917;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;78;0.00;2;2
+917;ILCK_PROP_08;ILCK_PROP_08;VEHICLE;Cod. 08 Loop porte aperto;78;0.00;2;2
+917;ILCK_PROP_15;ILCK_PROP_15;MDS;Cod. 15 Nessun banco abilitato;78;0.00;2;2
+917;ILCK_Panto_04;ILCK_Panto_04;AT;Cod 04. Banco non abilitato;78;0.00;2;2
+917;42025;_IRV1AuxResOutRngFlt_;BCU_T2;Pressione serbatoio ausiliario fuori limite (carrello 1);78;0.00;2;1
+917;42031;_IRV2AuxResOutRngFlt_;BCU_T2;Pressione serbatoio ausiliario fuori limite (carrello 2);78;0.00;2;1
+917;45025;_IRV1AuxResOutRngFlt_;BCU_T5;Pressione serbatoio ausiliario fuori limite (carrello 1);78;0.00;2;1
+917;45031;_IRV2AuxResOutRngFlt_;BCU_T5;Pressione serbatoio ausiliario fuori limite (carrello 2);78;0.00;2;1
+917;48025;_IRV1AuxResOutRngFlt_;BCU_M8;Pressione serbatoio ausiliario fuori limite (carrello 1);78;0.00;2;1
+917;48031;_IRV2AuxResOutRngFlt_;BCU_M8;Pressione serbatoio ausiliario fuori limite (carrello 2);78;0.00;2;1
+918;10085;PntLow3;AT;Abbassamento pantogr. comandato da ERTMS;45;11.74;2;2
+918;21376;NO_LINE_VOLTAGE;CONV_TRAZ_M1;Nessuna tensione di linea;45;11.74;2;2
+918;21476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M1;Apertura forz. contatt. Convert. Princip. DC;45;11.74;2;2
+918;23376;NO_LINE_VOLTAGE;CONV_TRAZ_M3;Nessuna tensione di linea;45;11.74;2;2
+918;23476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M3;Apertura forz. contatt. Convert. Princip. DC;45;11.74;2;2
+918;26376;NO_LINE_VOLTAGE;CONV_TRAZ_M6;Nessuna tensione di linea;45;11.74;2;2
+918;26476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M6;Apertura forz. contatt. Convert. Princip. DC;45;11.74;2;2
+918;28376;NO_LINE_VOLTAGE;CONV_TRAZ_M8;Nessuna tensione di linea;45;11.74;2;2
+918;28476;OP_DCMAINCNT_PREC_DC;CONV_TRAZ_M8;Apertura forz. contatt. Convert. Princip. DC;45;11.74;2;2
+918;93189;_PneuFlt_;M3_Gradino_Porta4;Avaria unita' pneum. gradino porta 4 M3;45;11.74;2;2
+918;150005;_LineVoltType_;VEHICLE;Selezionata tensione 25 kV;45;11.74;2;2
+918;150010;_Poc_;VEHICLE;Ingresso in POC;45;11.74;2;2
+918;150011;_PantoLowSts_;VEHICLE;Nessun pantografo alto;45;11.74;2;2
+918;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;45;11.74;2;2
+918;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;45;11.74;2;2
+918;ILCK_IP_T2_51;ILCK_IP_T2_51;T2_1Q4_IP;Cod 51. 1Q7 non nello stato di aperto;45;11.74;2;2
+918;ILCK_IP_T2_55;ILCK_IP_T2_55;T2_1Q4_IP;Cod 55. Sezionatore 1Q7  non aperto in AC;45;11.74;2;2
+918;ILCK_IP_T7_51;ILCK_IP_T7_51;T7_1Q4_IP;Cod 51. 1Q7 non nello stato di aperto;45;11.74;2;2
+918;ILCK_IP_T7_55;ILCK_IP_T7_55;T7_1Q4_IP;Cod 55. Sezionatore 1Q7  non aperto in AC;45;11.74;2;2
+918;ILCK_IRIP_T2_56;ILCK_IRIP_T2_56;T2_MCB;Cod 56. Apertura da TCU1  locale (M1);45;11.74;2;2
+918;ILCK_IRIP_T2_57;ILCK_IRIP_T2_57;T2_MCB;Cod 57. Apertura da TCU2  locale (M3);45;11.74;2;2
+918;ILCK_IRIP_T7_09;ILCK_IRIP_T7_09;T2_1Q2_IR;Cod 09. Apertura Interruttore principale da ETCS;45;11.74;2;2
+918;ILCK_IRIP_T7_39;ILCK_IRIP_T7_39;T7_MCB;Cod 39. Master Controller non in IDLE;45;11.74;2;2
+918;ILCK_IRIP_T7_56;ILCK_IRIP_T7_56;T7_MCB;Cod 56. Apertura da TCU1  locale (M8);45;11.74;2;2
+918;ILCK_IRIP_T7_57;ILCK_IRIP_T7_57;T7_MCB;Cod 57. Apertura da TCU2  locale (M6);45;11.74;2;2
+918;ILCK_IRIP_T7_58;ILCK_IRIP_T7_58;T7_MCB;Cod 58. Apertura da TCU1 remota (M1);45;11.74;2;2
+918;ILCK_IRIP_T7_59;ILCK_IRIP_T7_59;T7_MCB;Cod 59. Apertura da TCU2 remota (M3);45;11.74;2;2
+918;ILCK_IR_T2_01;ILCK_IR_T2_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;45;11.74;2;2
+918;ILCK_IR_T2_41;ILCK_IR_T2_41;T2_1Q2_IR;Cod 41. Line Voltage Type non 3KV;45;11.74;2;2
+918;ILCK_IR_T7_01;ILCK_IR_T7_01;T2_1Q2_IR;Cod 01. Mancanza tensione di linea su treno locale;45;11.74;2;2
+918;ILCK_IR_T7_41;ILCK_IR_T7_41;T2_1Q2_IR;Cod 41. Line Voltage Type non 3KV;45;11.74;2;2
+918;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;45;11.74;2;2
+918;ILCK_Panto_T2_07;ILCK_Panto_T2_07;T2_PANTO;Cod 07. Comando abbassamento panto richiesto da remoto;45;11.74;2;2
+918;ILCK_Panto_T7_12;ILCK_Panto_T7_12;T7_PANTO;Cod 12. Abbassamento Panto richiesto dal segnalamento;45;11.74;2;2
+918;23219;_MCQ1SwitchSts_;TCU_M3;Guasto interruttore di isolamento 25 kV (stato);45;11.74;2;1
+918;26219;_MCQ1SwitchSts_;TCU_M6;Guasto interruttore di isolamento 25 kV (stato);45;11.74;2;1
+918;28219;_MCQ1SwitchSts_;TCU_M8;Guasto interruttore di isolamento 25 kV (stato);45;11.74;2;1
+918;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;45;11.74;2;1
+918;EVT_Panto_T2_07;EVT_Panto_T2_07;T2_PANTO;Cod 07. Comando abbassamento panto richiesto da remoto;45;11.74;2;1
+918;EVT_Panto_T7_12;EVT_Panto_T7_12;T7_PANTO;Cod 12. Abbassamento Panto richiesto dal segnalamento;45;11.74;2;1
+918;ILCK_IRIP_T2_13;ILCK_IRIP_T2_13;T2_MCB;Cod 13. Apertura IR/IP da TRAIN LINE;45;11.74;2;1
+918;ILCK_IR_T2_40;ILCK_IR_T2_40;T2_1Q2_IR;Cod 40. Contattore 1Q1 non nello stato DC;45;11.74;2;1
+918;ILCK_IR_T7_42;ILCK_IR_T7_42;T2_1Q2_IR;Cod 42. Pantografo DC non alto;45;11.74;2;1
+918;ILCK_PROP_13M8;ILCK_PROP_13_M8;MDS;Cod. 13 Leva MC 6S01 non in trazione;45;11.74;2;1
+918;ILCK_PROP_21M8;ILCK_PROP_21M8;MDS;Cod. 21 AT non presente;45;11.74;2;1
+919;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;65;1.20;2;2
+919;11051;_HVACpxNotOK_;HVAC_M1;Perdita di comunicazione con HVAC M1;65;1.20;2;2
+919;12051;_HVACpxNotOK_;HVAC_T2;Perdita di comunicazione con HVAC T2;65;1.20;2;2
+919;13051;_HVACpxNotOK_;HVAC_M3;Perdita di comunicazione con HVAC M3;65;1.20;2;2
+919;14051;_HVACpxNotOK_;HVAC_T4;Perdita di comunicazione con HVAC T4;65;1.20;2;2
+919;15051;_HVACpxNotOK_;HVAC_T5;Perdita di comunicazione con HVAC T5;65;1.20;2;2
+919;16051;_HVACpxNotOK_;HVAC_M6;Perdita di comunicazione con HVAC M6;65;1.20;2;2
+919;17051;_HVACpxNotOK_;HVAC_T7;Perdita di comunicazione con HVAC T7;65;1.20;2;2
+919;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;65;1.20;2;2
+919;18051;_HVACpxNotOK_;HVAC_M8;Perdita di comunicazione con HVAC M8;65;1.20;2;2
+919;27872;_2F47_;T7_2F47;Intervento 2F47 (Toilette) in T7;65;1.20;2;2
+919;41001;_BCUPwrOn_;BCU_M1;Avvio centralina BCU M1;65;1.20;2;2
+919;41025;_IRV1AuxResOutRngFlt_;BCU_M1;Pressione serbatoio ausiliario fuori limite (carrello 1);65;1.20;2;2
+919;41031;_IRV2AuxResOutRngFlt_;BCU_M1;Pressione serbatoio ausiliario fuori limite (carrello 2);65;1.20;2;2
+919;41069;_EpEscFlt_;BCU_M1;Assistenza EP fuori servizio;65;1.20;2;2
+919;41257;_9S06On_;M1_9S06;Dispositivo 9S06 attivo (assistenza EP isolata);65;1.20;2;2
+919;42001;_BCUPwrOn_;BCU_T2;Avvio centralina BCU T2;65;1.20;2;2
+919;42025;_IRV1AuxResOutRngFlt_;BCU_T2;Pressione serbatoio ausiliario fuori limite (carrello 1);65;1.20;2;2
+919;42031;_IRV2AuxResOutRngFlt_;BCU_T2;Pressione serbatoio ausiliario fuori limite (carrello 2);65;1.20;2;2
+919;43001;_BCUPwrOn_;BCU_M3;Avvio centralina BCU M3;65;1.20;2;2
+919;43025;_IRV1AuxResOutRngFlt_;BCU_M3;Pressione serbatoio ausiliario fuori limite (carrello 1);65;1.20;2;2
+919;43031;_IRV2AuxResOutRngFlt_;BCU_M3;Pressione serbatoio ausiliario fuori limite (carrello 2);65;1.20;2;2
+919;44001;_BCUPwrOn_;BCU_T4;Avvio centralina BCU T4;65;1.20;2;2
+919;45001;_BCUPwrOn_;BCU_T5;Avvio centralina BCU T5;65;1.20;2;2
+919;45025;_IRV1AuxResOutRngFlt_;BCU_T5;Pressione serbatoio ausiliario fuori limite (carrello 1);65;1.20;2;2
+919;45031;_IRV2AuxResOutRngFlt_;BCU_T5;Pressione serbatoio ausiliario fuori limite (carrello 2);65;1.20;2;2
+919;46001;_BCUPwrOn_;BCU_M6;Avvio centralina BCU M6;65;1.20;2;2
+919;47001;_BCUPwrOn_;BCU_T7;Avvio centralina BCU T7;65;1.20;2;2
+919;47025;_IRV1AuxResOutRngFlt_;BCU_T7;Pressione serbatoio ausiliario fuori limite (carrello 1);65;1.20;2;2
+919;47031;_IRV2AuxResOutRngFlt_;BCU_T7;Pressione serbatoio ausiliario fuori limite (carrello 2);65;1.20;2;2
+919;48001;_BCUPwrOn_;BCU_M8;Avvio centralina BCU M8;65;1.20;2;2
+919;48025;_IRV1AuxResOutRngFlt_;BCU_M8;Pressione serbatoio ausiliario fuori limite (carrello 1);65;1.20;2;2
+919;48031;_IRV2AuxResOutRngFlt_;BCU_M8;Pressione serbatoio ausiliario fuori limite (carrello 2);65;1.20;2;2
+919;103003;_IDoorEmrgCmd_;M3_Porta_comparto_1;Porta interna 1 isolata;65;1.20;2;2
+919;103019;_IDoorUnblock_;M3_Porta_comparto_2;Guasto microswitch porta interna 2;65;1.20;2;2
+919;103021;_IDoorDCSFlt_;M3_Porta_comparto_2;Guasto microswitch porta interna 2;65;1.20;2;2
+919;132017;_StToiletSys_;TOIL_T2;Toilette fuori servizio veicolo T2;65;1.20;2;2
+919;137017;_StToiletSys_;TOIL_T7;Toilette fuori servizio veicolo T7;65;1.20;2;2
+919;150001;_SMCPowerOn_;SMC;Avvio diagnostica SMC;65;1.20;2;2
+919;150004;_LineVoltType_;VEHICLE;Selezionata tensione 3 kV;65;1.20;2;2
+919;150006;_Running_;VEHICLE;Stato RUNNING attivo;65;1.20;2;2
+919;150025;_9S13_;VEHICLE;Pressione CP sotto 7.5 bar in M1 (press. 9S13);65;1.20;2;2
+919;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);65;1.20;2;2
+919;151002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M1;65;1.20;2;2
+919;151003;_CabOccupied_;M1_4K14;Banco Abilitato M1;65;1.20;2;2
+919;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;65;1.20;2;2
+919;157019;_1Q21_;T7_1Q2_IR;IR chiuso in cassa T7;65;1.20;2;2
+919;158014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T7;65;1.20;2;2
+919;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;65;1.20;2;2
+919;ILCK_IP_T2_47;ILCK_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;65;1.20;2;2
+919;ILCK_IP_T7_47;ILCK_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;65;1.20;2;2
+919;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;65;1.20;2;2
+919;ILCK_PROP_02;ILCK_PROP_02;VEHICLE;Cod. 02 Taglio trazione comandato da RCEC;65;1.20;2;2
+919;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;65;1.20;2;2
+919;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;65;1.20;2;2
+919;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;65;1.20;2;2
+919;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;65;1.20;2;2
+919;ILCK_PROP_17M1;ILCK_PROP_17M1;MDS;Cod. 17 Filo treno Taglio Trazione non alimentato;65;1.20;2;2
+919;ILCK_PROP_20M1;ILCK_PROP_20M1;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);65;1.20;2;2
+919;23062;DIO_DI_FL1;CONV_TRAZ_M3;H2O: FL1 - flusso circ. trattamento basso;65;1.20;2;1
+919;23206;_H2OWarn_;TCU_M3;Guasto centralina idraulica TACU M3;65;1.20;2;1
+919;41098;_D_SUSP_LOW1_;BCU_M1;Press. Sospens. fuori range (carrello 1) DOWN;65;1.20;2;1
+919;44031;_IRV2AuxResOutRngFlt_;BCU_T4;Pressione serbatoio ausiliario fuori limite (carrello 2);65;1.20;2;1
+919;103044;_IDoorUnblock_;M3_Porta_intermedia;Guasto microswitch porta intermedia;65;1.20;2;1
+919;103046;_IDoorDCSFlt_;M3_Porta_intermedia;Guasto microswitch porta intermedia;65;1.20;2;1
+920;11050;_HVACcabNotOK_;HVAC_CAB_M1;Perdita di comunicazione con HVAC cabina M1;62;3.60;2;2
+920;11051;_HVACpxNotOK_;HVAC_M1;Perdita di comunicazione con HVAC M1;62;3.60;2;2
+920;12051;_HVACpxNotOK_;HVAC_T2;Perdita di comunicazione con HVAC T2;62;3.60;2;2
+920;13051;_HVACpxNotOK_;HVAC_M3;Perdita di comunicazione con HVAC M3;62;3.60;2;2
+920;14051;_HVACpxNotOK_;HVAC_T4;Perdita di comunicazione con HVAC T4;62;3.60;2;2
+920;15051;_HVACpxNotOK_;HVAC_T5;Perdita di comunicazione con HVAC T5;62;3.60;2;2
+920;16051;_HVACpxNotOK_;HVAC_M6;Perdita di comunicazione con HVAC M6;62;3.60;2;2
+920;17051;_HVACpxNotOK_;HVAC_T7;Perdita di comunicazione con HVAC T7;62;3.60;2;2
+920;18050;_HVACcabNotOK_;HVAC_CAB_M8;Perdita di comunicazione con HVAC cabina M1;62;3.60;2;2
+920;18051;_HVACpxNotOK_;HVAC_M8;Perdita di comunicazione con HVAC M8;62;3.60;2;2
+920;27872;_2F47_;T7_2F47;Intervento 2F47 (Toilette) in T7;62;3.60;2;2
+920;41001;_BCUPwrOn_;BCU_M1;Avvio centralina BCU M1;62;3.60;2;2
+920;41257;_9S06On_;M1_9S06;Dispositivo 9S06 attivo (assistenza EP isolata);62;3.60;2;2
+920;42001;_BCUPwrOn_;BCU_T2;Avvio centralina BCU T2;62;3.60;2;2
+920;43001;_BCUPwrOn_;BCU_M3;Avvio centralina BCU M3;62;3.60;2;2
+920;44001;_BCUPwrOn_;BCU_T4;Avvio centralina BCU T4;62;3.60;2;2
+920;45001;_BCUPwrOn_;BCU_T5;Avvio centralina BCU T5;62;3.60;2;2
+920;46001;_BCUPwrOn_;BCU_M6;Avvio centralina BCU M6;62;3.60;2;2
+920;47001;_BCUPwrOn_;BCU_T7;Avvio centralina BCU T7;62;3.60;2;2
+920;48001;_BCUPwrOn_;BCU_M8;Avvio centralina BCU M8;62;3.60;2;2
+920;48257;_9S06On_;M8_9S06;Dispositivo 9S06 attivo (assistenza EP isolata);62;3.60;2;2
+920;132017;_StToiletSys_;TOIL_T2;Toilette fuori servizio veicolo T2;62;3.60;2;2
+920;137017;_StToiletSys_;TOIL_T7;Toilette fuori servizio veicolo T7;62;3.60;2;2
+920;150001;_SMCPowerOn_;SMC;Avvio diagnostica SMC;62;3.60;2;2
+920;150004;_LineVoltType_;VEHICLE;Selezionata tensione 3 kV;62;3.60;2;2
+920;150006;_Running_;VEHICLE;Stato RUNNING attivo;62;3.60;2;2
+920;150025;_9S13_;VEHICLE;Pressione CP sotto 7.5 bar in M1 (press. 9S13);62;3.60;2;2
+920;150026;_9S14_;VEHICLE;Pressione CP sotto 8.5 bar in M8 (press. 9S14);62;3.60;2;2
+920;151002;_DeskKeyIn_;M1_4K14;Chiave di Banco inserita in M1;62;3.60;2;2
+920;151003;_CabOccupied_;M1_4K14;Banco Abilitato M1;62;3.60;2;2
+920;151021;_LowSpdTL_;M1_9K42;Linea treno Velocita' zero  attiva in M1-T4;62;3.60;2;2
+920;157019;_1Q21_;T7_1Q2_IR;IR chiuso in cassa T7;62;3.60;2;2
+920;158014;_DCPantoSts_;VEHICLE;Pantografo DC alto in T7;62;3.60;2;2
+920;158021;_LowSpdTL_;M8_9K42;Linea treno Velocita' zero  attiva in M8-T5;62;3.60;2;2
+920;ILCK_IP_T2_47;ILCK_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;62;3.60;2;2
+920;ILCK_IP_T7_47;ILCK_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;62;3.60;2;2
+920;ILCK_PROP_01;ILCK_PROP_01;VEHICLE;Cod. 01 Max fren. di servizio richiesta da segnalamento;62;3.60;2;2
+920;ILCK_PROP_02;ILCK_PROP_02;VEHICLE;Cod. 02 Taglio trazione comandato da RCEC;62;3.60;2;2
+920;ILCK_PROP_04;ILCK_PROP_04;VEHICLE;Cod. 04 Condotta Generale scarica;62;3.60;2;2
+920;ILCK_PROP_05;ILCK_PROP_05;VEHICLE;Cod. 05 Taglio trazione da SSB attivo;62;3.60;2;2
+920;ILCK_PROP_13M1;ILCK_PROP_13_M1;MDS;Cod. 13 Leva MC 6S01 non in trazione;62;3.60;2;2
+920;ILCK_PROP_14;ILCK_PROP_14;MDS;Cod. 14 Nessuna direzione impostata;62;3.60;2;2
+920;ILCK_PROP_17M1;ILCK_PROP_17M1;MDS;Cod. 17 Filo treno Taglio Trazione non alimentato;62;3.60;2;2
+920;ILCK_PROP_20M1;ILCK_PROP_20M1;MDS;Cod. 20 Freno di stazionamento attivo (TT a 2 km/h);62;3.60;2;2
+920;16216;CCU_Q1_00;Q1_M6;Incongruenza contatti 1Q1 in M6 (00);62;3.60;2;1
+920;23062;DIO_DI_FL1;CONV_TRAZ_M3;H2O: FL1 - flusso circ. trattamento basso;62;3.60;2;1
+920;23206;_H2OWarn_;TCU_M3;Guasto centralina idraulica TACU M3;62;3.60;2;1
+920;41069;_EpEscFlt_;BCU_M1;Assistenza EP fuori servizio;62;3.60;2;1
+920;81173;_CabFiltrfrshairsat_;HVAC_CAB_M1;Filtro aria fresca sporco;62;3.60;2;1
+920;82018;_CrctBrkQ51_;HVAC_T2;Interruttore Q51 aperto;62;3.60;2;1
+920;82079;_SnsrHighprssrB46_;HVAC_T2;Guasto sensore di pressione B46;62;3.60;2;1
+920;88173;_CabFiltrfrshairsat_;HVAC_CAB_M8;Filtro aria fresca sporco;62;3.60;2;1
+920;101019;_IDoorUnblock_;M1_Porta_comparto_2;Guasto microswitch porta interna 2;62;3.60;2;1
+920;101021;_IDoorDCSFlt_;M1_Porta_comparto_2;Guasto microswitch porta interna 2;62;3.60;2;1
+920;103034;_IDoorEmrgCmd_;M3_Porta_gangway_2;Porta Gangway 2 isolata;62;3.60;2;1
+920;150016;_IRIP_OpenSts_;VEHICLE;Nessun IR o IP chiuso;62;3.60;2;1
+920;150017;_CmdCloseIR_;VEHICLE;Comando chiusura IR/IP da banco;62;3.60;2;1
+920;151022;_HvOnBoardUnit_;T2_1Q4_IP;Alta tensione non presente in M1-T4;62;3.60;2;1
+920;158022;_HvOnBoardUnit_;T7_1Q4_IP;Alta tensione non presente in M8-T5;62;3.60;2;1
+920;EVT_IP_T2_47;EVT_IP_T2_47;T2_1Q4_IP;Cod 47. Line Voltage Type non 25KV;62;3.60;2;1
+920;EVT_IP_T7_47;EVT_IP_T7_47;T7_1Q4_IP;Cod 47. Line Voltage Type non 25KV;62;3.60;2;1
+920;ILCK_PROP_21M1;ILCK_PROP_21M1;MDS;Cod. 21 AT non presente;62;3.60;2;1

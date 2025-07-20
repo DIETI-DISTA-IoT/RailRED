@@ -1,0 +1,11 @@
+# virtual env
+railway_venv
+
+# temporal stuff...
+tmp
+
+# crypto key stuff... generate your own...
+nodered_server/data/cert.pem
+nodered_server/data/key.pem
+nodered_server/data/ca.pem
+nodered_server/data/ca.key
